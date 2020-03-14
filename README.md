@@ -69,6 +69,7 @@ This program will install a tray-icon, thus you can re-select the damagelog fold
 It will also automatically start MiniGraph program when run and try to automatically close it as well when exiting.
 
 *If you can't select the pso2_bin\damagelog folder/directory through the browse folder dialog for some reason, then select just any folder and then edit the ParseInstance.ini file to point at the correct folder/directory.*
+![Edit ini file](/Images/ParseInstance-Ini.png)
 
 
 
