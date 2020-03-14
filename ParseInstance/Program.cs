@@ -138,6 +138,8 @@ namespace ParseInstance
 
         AboutBox about = new AboutBox();
 
+        string sCharName = "";
+
         public MyCustomApplicationContext()
         {            
             // Initialize Tray Icon
@@ -493,6 +495,27 @@ namespace ParseInstance
                     }
                 }
 
+                uint uPlayerID = 0;
+                string sPlayerName = "";
+                if (aAction.sourceID > 10000000)
+                {
+                    uPlayerID = aAction.sourceID;
+                    sPlayerName = aAction.sourceName;
+                }
+                else
+                {
+                    if (aAction.targetID > 10000000)
+                    {
+                        uPlayerID = aAction.targetID;
+                        sPlayerName = aAction.targetName;
+                    }
+                }
+
+                // Check for if you have changed characters
+                if (uPlayerID == uYOUID)
+                    if (sPlayerName != sCharName)
+                        bBreakInstance = true;
+
                 if (bBreakInstance)
                 {
                     if (InstanceData.Count > 0)
@@ -517,12 +540,8 @@ namespace ParseInstance
                                 {
                                     nDuplicate++;
                                     if (File.Exists(sDir + "\\PreviousInstances\\InstanceData-" + uCurrentInstance.ToString() + "(" + nDuplicate + ").csv"))
-                                    {
                                         while (File.Exists(sDir + "\\PreviousInstances\\InstanceData-" + uCurrentInstance.ToString() + "(" + nDuplicate + ").csv"))
-                                        {
                                             nDuplicate++;
-                                        }
-                                    }
                                 }
 
                                 if (nDuplicate == 0)
@@ -549,21 +568,8 @@ namespace ParseInstance
 
                 PlayerInstance oNewPlayer = new PlayerInstance();
 
-                uint uPlayerID = 0;
-                string sPlayerName = "";
-                if (aAction.sourceID > 10000000)
-                {
-                    uPlayerID = aAction.sourceID;
-                    sPlayerName = aAction.sourceName;
-                }
-                else
-                {
-                    if (aAction.targetID > 10000000)
-                    {
-                        uPlayerID = aAction.targetID;
-                        sPlayerName = aAction.targetName;
-                    }
-                }
+                if (uPlayerID == uYOUID)
+                    sCharName = sPlayerName;
 
                 try
                 {
@@ -618,7 +624,10 @@ namespace ParseInstance
                                 lTotalDamage += aAction.damage;
                                 if (aAction.damage > oNewPlayer.MaxDamage)
                                 {
-                                    oNewPlayer.MaxSkill = skillDict[aAction.attackID].Name;
+                                    if (skillDict.ContainsKey(aAction.attackID))
+                                        oNewPlayer.MaxSkill = skillDict[aAction.attackID].Name;
+                                    else
+                                        oNewPlayer.MaxSkill = aAction.attackID.ToString();
                                     oNewPlayer.MaxDamage = aAction.damage;
                                 }
                             }
