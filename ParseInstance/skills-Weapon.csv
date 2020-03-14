@@ -1,0 +1,1222 @@
+ID,Class,Weapon,Type,Kind,Name
+1698836726,FO,Rod,Rod hit,Melee,Rod first normal attack
+1698835954,FO,Rod,Rod hit,Melee,Rod second normal attack
+1698835891,FO,Rod,Rod hit,Melee,Rod third normal attack
+603769614,FO,Talis,Talis hit,Ranged,Talis first normal attack
+603769679,FO,Talis,Talis hit,Ranged,Talis second normal attack
+603769484,FO,Talis,Talis hit,Ranged,Talis third normal attack
+2875245395,,Foie,Foie,Tech,Uncharged
+169905548,,Foie,Foie,Tech,Charged
+46933754,,Foie,Gifoie,Tech,Uncharged
+1396192371,,Foie,Gifoie,Tech,Charged
+3727832945,,Foie,Rafoie,Tech,Uncharged
+3160663286,,Foie,Rafoie,Tech,Charged
+992062163,,Foie,Safoie,Tech,Uncharged
+1313506350,,Foie,Safoie,Tech,Charged
+2566461378,,Foie,Safoie (C),Tech,Safoie (Type-0) uncharged first hit
+1314363598,,Foie,Safoie (C),Tech,Safoie (Type-0) uncharged 
+2588035419,,Foie,Safoie (C),Tech,Safoie (Type-0) charged first hit
+166001586,,Foie,Safoie (C),Tech,Safoie (Type-0) charged
+3050042460,,Foie,Nafoie,Tech,Ground_ Uncharged
+4054265489,,Foie,Nafoie,Tech,Ground_ Charged
+828617961,,Foie,Nafoie,Tech,Direct_ Uncharged
+840836682,,Foie,Nafoie,Tech,Direct_ Charged
+753131125,,Foie,Ilfoie,Tech,Uncharged
+3465265553,,Foie,Ilfoie,Tech,Charged
+266516230,,Barta,Barta,Tech,Uncharged
+2503064048,,Barta,Barta,Tech,Charged
+4241185338,,Barta,Gibarta,Tech,Uncharged
+3975187521,,Barta,Gibarta,Tech,Charged
+2628737071,,Barta,Rabarta,Tech,Uncharged
+1838809243,,Barta,Rabarta,Tech,Charged
+1906247115,,Barta,Sabarta,Tech,Uncharged
+3773240682,,Barta,Sabarta,Tech,Charged1
+3773212059,,Barta,Sabarta,Tech,Sabarta charged (crafted?) second hit
+3773297992,,Barta,Sabarta,Tech,Sabarta charged (crafted?) third hit
+49556873,,Barta,Nabarta,Tech,Cone
+2952624225,,Barta,Nabarta (C),Tech,Nabarta (type-0)
+3811499950,,Barta,Ilbarta,Tech,Uncharged1
+1100223160,,Barta,Ilbarta,Tech,Charged1
+3813876239,,Barta,Ilbarta,Tech,Uncharged2
+1097749259,,Barta,Ilbarta,Tech,Charged2
+3811409918,,Barta,Ilbarta,Tech,Uncharged3
+1097489198,,Barta,Ilbarta,Tech,Charged3
+1715327776,,Zonde,Zonde,Tech,Charged
+554054867,,Zonde,Zonde,Tech,Uncharged
+553845451,,Zonde,Zonde (C),Tech,Zonde (type-0 craft) uncharged
+3325804278,,Zonde,Zonde (C),Tech,charged
+3480669127,,Zonde,Zonde (C),Tech,charged final blast
+71596560,,Zonde,Gizonde,Tech,Uncharged
+3022246617,,Zonde,Gizonde,Tech,Charged
+3676394406,,Zonde,Razonde,Tech,Charged
+1182047893,,Zonde,Razonde,Tech,Uncharged
+3103634595,,Zonde,Sazonde,Tech,Charged
+577772084,,Zonde,Sazonde,Tech,Sazonde ignition burn/poisonlike damage? (charged)
+3004803920,,Zonde,Sazonde,Tech,Uncharged
+3588292375,,Zonde,Zondeel,Tech,Charged
+2651268955,,Zonde,Zondeel,Tech,Uncharged
+2789601843,,Zonde,Nazonde,Tech,Charged
+3856490257,,Zonde,Nazonde,Tech,"Charged ""first thunder"""
+4278420419,,Zonde,Nazonde,Tech,Uncharged
+1343119479,,Zonde,Nazonde,Tech,"Uncharged Nazonde ""first thunder"""
+1756866220,,Zonde,Ilzonde,Tech,Charged
+2398664728,,Zonde,Ilzonde,Tech,Uncharged
+521246550,,Zan,Zan,Tech,Charged
+1968122153,,Zan,Zan,Tech,Uncharged
+240324652,,Zan,Gizan,Tech,Charged
+3485405777,,Zan,Gizan,Tech,Uncharged
+3917149067,,Zan,Gizan,Tech,Charged
+1061314683,,Zan,Razan,Tech,Charged
+1105346738,,Zan,Razan,Tech,Uncharged
+886169895,,Zan,Sazan,Tech,Charged
+3946162743,,Zan,Sazan,Tech,Uncharged
+2106601422,,Zan,Zanverse,Tech,
+1233164694,,Zan,Nazan,Tech,Charged
+1497197786,,Zan,Nazan,Tech,Uncharged
+3917512316,,Zan,Nazan (C),Tech,Nazan (type-0 craft) uncharged
+1490526560,,Zan,Nazan (C),Tech,second
+3510056594,,Zan,Nazan (C),Tech,Nazan charged first hit
+2994867107,,Zan,Nazan (C),Tech,second hit
+1437435851,,Zan,Nazan (C),Tech,loads of hits
+2891550606,,Zan,Ilzan,Tech,Charged
+1944592516,,Zan,Ilzan,Tech,Uncharged
+696766223,,Grants,Grants,Tech,Charged
+587902627,,Grants,Grants,Tech,Uncharged
+1564723661,,Grants,Gigrants,Tech,
+1530463953,,Grants,Gigrants,Tech,
+1436931332,,Grants,Gigrants,Tech,
+2514551176,,Grants,Gigrants,Tech,
+2514506879,,Grants,Gigrants,Tech,
+3628407015,,Grants,Gigrants (C),Tech,Gigrants (type-0) spin
+3801422187,,Grants,Gigrants (C),Tech,Gigrants (type-0) final spin
+1533572763,,Grants,Ragrants,Tech,Charged
+3561438056,,Grants,Ragrants,Tech,Uncharged
+142771121,,Grants,Resta,Tech,
+4031424500,,Grants,Resta,Tech,
+195155587,,Grants,Resta,Tech,
+3436243939,,Grants,Resta,Tech,
+2654395262,,Grants,Anti,Tech,
+3224409263,,Grants,Nagrants,Tech,
+441986811,,Grants,Nagrants,Tech,
+3937014835,,Grants,Ilgrants,Tech,
+1775046628,,Grants,Ilgrants,Tech,
+3476394151,,Megid,Megid,Tech,
+1348241237,,Megid,Megid,Tech,
+2362873256,,Megid,Gimegid,Tech,
+2076503293,,Megid,Gimegid,Tech,
+1346510043,,Megid,Ramegid,Tech,
+2458729274,,Megid,Ramegid,Tech,
+1488338153,,Megid,Ramegid (C),Tech,Ramegid (Type-0) uncharged
+3108138604,,Megid,Ramegid (C),Tech,Ramegid (Type-0) charged
+757530403,,Megid,Samegid,Tech,
+3731229904,,Megid,Samegid,Tech,
+803375681,,Megid,Namegid,Tech,
+2368738938,,Megid,Namegid,Tech,
+3791794807,,Megid,Ilmegid,Tech,
+3041296659,,Megid,Ilmegid,Tech,
+9380787,,Compound,Fomelgion,Tech,???
+1671704953,,Compound,Fomelgion,Tech,???
+481495314,,Compound,Zandion,Tech,???
+2644417114,,Compound,Zandion,Tech,???
+295363461,,Compound,Barantsion,Tech,Barantsion
+3388489620,,Compound,Barantsion,Tech,Barantsion
+1163319447,,Compound,Barantsion,Tech,Barantsion
+2334157934,,Compound,Barantsion,Tech,Barantsion
+2379907725,,Compound,Barantsion,Tech,Barantsion
+1867811711,,Compound,Ra Zandia,Tech,Ra Zandia tornado
+1867811774,,Compound,Ra Zandia,Tech,Ra Zandia thunder (during tornado)
+718208837,,Compound,Ra Zandia,Tech,Ra Zandia laser
+718207365,,Compound,Ra Zandia,Tech,Ra Zandia laser aoe(?)
+2206442470,,Compound,Ra Fomelgion,Tech,Ra Fomelgia the particle itself hitting(?)
+2206444891,,Compound,Ra Fomelgion,Tech,Ra Fomelgia physical hit(?)
+564406075,,Compound,Ra Fomelgion,Tech,Ra Fomelgia finish
+564406201,,Compound,Ra Fomelgion,Tech,Ra Fomelgia finish
+138892717,,Compound,Ra Barantsia,Tech,Ra Barantsia right projectile
+4003740182,,Compound,Ra Barantsia,Tech,Ra Barantsia left projectile
+950481737,,Compound,Ra Barantsia,Tech,Ra Barantsia finish
+950479247,,Compound,Ra Barantsia,Tech,Ra Barantsia finish
+82081592,FO,Rod,Rod Shoot,Special,Rod Shoot (Fo skill)
+102418521,FO,Rod,Rod Shoot (ring),Special,Another Rod Shooting Mode ring
+1775819901,TE,Wand,Wand hit,Melee,Wand
+1775820734,TE,Wand,Wand hit,Melee,Wand
+1775820799,TE,Wand,Wand hit,Melee,Wand
+1777037248,TE,Wand,Wand Step Attack,Melee,Wand (step attack)
+2614865725,TE,Wand,Wand Gear,Tech,Wand Gear (Ice)
+1479548096,TE,Wand,Wand Gear,Tech,Wand Gear (Fire)
+789614525,TE,Wand,Wand Gear,Tech,Wand Gear (Thunder)
+3274663457,TE,Wand,Wand Gear,Tech,Wand Gear (Light)
+1513048310,TE,Wand,Wand Gear,Tech,Wand Gear (Dark)
+3948088357,TE,Wand,Wand Gear,Tech,Wand Gear (Wind)
+1770469728,TE,Wand,Heavy Hammer,PA,Heavy Hammer no charge
+3027256165,TE,Wand,Heavy Hammer,PA,Heavy Hammer charge 1
+1393830765,TE,Wand,Heavy Hammer,PA,Heavy Hammer charge 2
+1612949165,HU,Partisan,Just Guard,Special,Wired Lances and Partizan Just Guard
+1526762558,HU,Sword,Just Guard,Special,Sword Just Guard
+1216456228,HU,Sword,Sword Step Attack,Melee,Sword
+1215379240,HU,Sword,Sword hit,Melee,Sword_ 1st
+1215379433,HU,Sword,Sword hit,Melee,Sword_ 2nd
+1215367338,HU,Sword,Sword hit,Melee,Sword_ 3rd
+1331225593,HU,Sword,Sword hit,Melee,Sword air first normal attack 
+1331225146,HU,Sword,Sword hit,Melee,Sword air second normal attack
+1331225211,HU,Sword,Sword hit,Melee,Sword air third normal attack
+1279043576,HU,Sword,Sword Step Attack (C),Melee,Sword Step Attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+2001359545,HU,Sword,Sword hit (C),Melee,Sword first normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+2002747972,HU,Sword,Sword hit (C),Melee,Sword second normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+2084739075,HU,Sword,Sword hit (C),Melee,Sword third normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+1351584013,HU,Sword,Sword hit (C),Melee,Sword air first normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+1353244642,HU,Sword,Sword hit (C),Melee,Sword air second normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+1354018567,HU,Sword,Sword hit (C),Melee,Sword air third normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+1227622308,HU,Sword,Rising Edge,PA,Start
+1224723795,HU,Sword,Rising Edge,PA,Spin
+1224723730,HU,Sword,Twister Fall,PA,Spin
+3096797813,HU,Sword,Twister Fall,PA,Slam
+3096804787,HU,Sword,Twister Fall,PA,Twister Fall second slam part
+3096805226,HU,Sword,Twister Fall,PA,Twister Fall third slam part
+3096804398,HU,Sword,Twister Fall (C),PA,Crafted spin
+1227789065,HU,Sword,Twister Fall (C),PA,Crafted slam
+1227789258,HU,Sword,Twister Fall (C),PA,Twister Fall crafted second slam part
+1227788826,HU,Sword,Twister Fall (C),PA,Twister Fall crafted third slam part
+3096784224,HU,Sword,Nova Strike,PA,1st
+3096784697,HU,Sword,Nova Strike,PA,2nd
+3034360175,HU,Sword,Nova Strike,PA,3rd
+3950438450,HU,Sword,Nova Strike,PA,Nova Strike uncharged 
+3950438451,HU,Sword,Nova Strike,PA,Nova Strike charge lv.1
+3950438460,HU,Sword,Nova Strike,PA,Nova Strike charge lv.2
+1224723856,HU,Sword,Ride Slasher,PA,
+3096759815,HU,Sword,Over End,PA,First 4
+3330009863,HU,Sword,Over End,PA,Final
+3096759878,HU,Sword,Over End,PA,???
+3096760066,HU,Sword,Over End,PA,???
+1224723991,HU,Sword,Stun Concido,PA,
+3096760613,HU,Sword,Sonic Arrow,PA,no gear
+3096760676,HU,Sword,Sonic Arrow,PA,partial gear
+3096768032,HU,Sword,Sonic Arrow,PA,full gear
+1410023705,HU,Sword,Sonic Arrow,PA,???
+2150373435,HU,Sword,Cruel Throw,PA,grab
+1224724117,HU,Sword,Cruel Throw,PA,thrown
+2164805818,HU,Sword,Enemy Thrown,PA,beatdown
+1107498562,HU,Sword,Enemy Thrown (C),PA,Enemy Thrown (C)
+3096967176,HU,Sword,Guilty Break,PA,no charge 1
+784836873,HU,Sword,Guilty Break,PA,no charge 2
+3096967243,HU,Sword,Guilty Break,PA,half charge 1
+785070206,HU,Sword,Guilty Break,PA,half charge 2
+3096936719,HU,Sword,Guilty Break,PA,full charge 1
+297995916,HU,Sword,Guilty Break,PA,full charge 2
+526157945,HU,Sword,Sacrifice's Bite,PA,Sacrifice's bite latch
+2275427188,HU,Sword,Sacrifice's Bite,PA,Sacrifice's bite charges
+985472180,HU,Sword,Sacrifice's Bite,PA,Sacrifice's bite short-charge
+2606728976,HU,Sword,Sacrifice's Bite,PA,Sacrifice's bite smack
+1040118139,HU,Sword,Sacrifice's Bite (C),PA,Sacrifice's Bite (Type-0) latch
+179195970,HU,Sword,Sacrifice's Bite (C),PA,Sacrifice's Bite (Type-0) charge
+3909378260,HU,Sword,Sacrifice's Bite (C),PA,Sacrifice's Bite (Type-0) quick-charge
+3040541025,HU,Sword,Sacrifice's Bite (C),PA,Sacrifice's Bite (Type-0) hit
+3096775537,HU,Sword,Ignition Parry,PA,Ignition Parry first four strikes (parried version uses this as well)
+54200585,HU,Sword,Ignition Parry,PA,Ignition Parry final two strikes
+498184876,HU,Sword,Ignition Parry,PA,Ignition Parry parried first hit
+915579056,HU,Sword,Ignition Parry,PA,Ignition Parry parried last 2 hits
+54200648,HU,Sword,Ignition Parry,PA,Ignition Parry 1 gear last 2 hits
+54200890,HU,Sword,Ignition Parry,PA,Ignition Parry 2 gear last 2 hits
+915578993,HU,Sword,Ignition Parry,PA,Ignition Parry 1 gear last 2 hits parried
+915561415,HU,Sword,Ignition Parry,PA,Ignition Parry 2 gear last 2 hits parried
+2285482403,HU,Partisan,Partizan hit,Melee,Partisan 1
+2226608029,HU,Partisan,Partizan hit,Melee,Partisan 2
+3208780153,HU,Partisan,Partizan hit,Melee,Partisan 3
+689132866,HU,Partisan,Partizan hit,Melee,Partizan air first normal attack
+2984060434,HU,Partisan,Partizan hit,Melee,Partizan air second normal attack
+3685709820,HU,Partisan,Partizan hit,Melee,Partizan air third normal attack
+998183821,HU,Partisan,Partizan Step Attack,Melee,Partisan Step
+636978853,HU,Partisan,Slide Shaker,PA,Slide Shaker spin no gear
+1520282204,HU,Partisan,Slide Shaker,PA,Slide Shaker final hit no gear
+3227905532,HU,Partisan,Slide Shaker,PA,Spin
+2058300958,HU,Partisan,Slide Shaker,PA,Final
+2526158104,HU,Partisan,Speed Rain,PA,Speed Rain no gear
+2059941313,HU,Partisan,Speed Rain,PA,
+2304899440,HU,Partisan,Rising Flag,PA,Rising Flag first hit no gear
+1539563132,HU,Partisan,Rising Flag,PA,Rising Flag second hit no gear
+4126118223,HU,Partisan,Rising Flag,PA,Rising Flag first hit with gear
+3118916294,HU,Partisan,Rising Flag,PA,Rising Flag second hit with gear
+3489365027,HU,Partisan,Zenith Throw,PA,Zenith throw hit and pickup
+433956771,HU,Partisan,Zenith Throw,PA,Zenith throw thrown
+3149659211,HU,Partisan,Zenith Throw,PA,Zenith throw hit and pickup (g)
+2913954274,HU,Partisan,Zenith Throw,PA,Zenith throw thrown (g)
+2653614511,HU,Partisan,Trick Rave,PA,Trick Rave first 5 hits
+13652846,HU,Partisan,Trick Rave,PA,Trick Rave final hit
+3731898348,HU,Partisan,Trick Rave,PA,Trick Rave first 5 hits (gear)
+3577272225,HU,Partisan,Trick Rave,PA,Trick Rave final hit (gear)
+377464480,HU,Partisan,Slide End,PA,Slide End uncharged
+2909671153,HU,Partisan,Slide End,PA,Slide End charged
+3587562687,HU,Partisan,Slide End,PA,Slide End uncharged (gear)
+1834644812,HU,Partisan,Slide End,PA,Slide End charged (gear)
+3303155134,HU,Partisan,Assault Buster,PA,Assault Buster
+2759272399,HU,Partisan,Assault Buster,PA,Assault Buster charge
+1141954068,HU,Partisan,Assault Buster,PA,Assault Buster (gear)
+345377627,HU,Partisan,Assault Buster,PA,Assault Buster charge (gear)
+3904258146,HU,Partisan,Bandersnatch,PA,Bandersnatch
+4105316267,HU,Partisan,Bandersnatch,PA,Bandersnatch (gear)
+978114411,HU,Partisan,Sacred Skewer,PA,Sacred Skewer
+3090311227,HU,Partisan,Sacred Skewer,PA,Sacred Skewer (gear)
+1194865789,HU,Partisan,Sacred Skewer (C),PA,Sacred Skewer (type-0) no gear uncharged
+458263249,HU,Partisan,Sacred Skewer (C),PA,Sacred Skewer (type-0) gear uncharged
+2210359068,HU,Partisan,Sacred Skewer (C),PA,Sacred Skewer (type-0) no gear charged
+2391746623,HU,Partisan,Sacred Skewer (C),PA,Sacred Skewer (type-0) gear charged
+936938020,HU,Partisan,Vol Graptor,PA,Vol Graptor
+925141705,HU,Partisan,Vol Graptor,PA,Vol Graptor charged
+3331228937,HU,Partisan,Tear Grid,PA,Tear Grid combo hits
+195498830,HU,Partisan,Tear Grid,PA,Tear Grid final hit
+3630719180,HU,Partisan,Tear Grid,PA,Tear Grid combo hits(g)
+3226393072,HU,Partisan,Tear Grid,PA,Tear Grid final hit (g)
+3811494773,HU,Sword,Imperial Cleave,Special,Imperial Cleave hit
+2499265502,HU,Sword,Imperial Cleave,Special,Imperial Cleave slash
+1667827810,HU,WireLance,Wired Lances hit,Melee,Wired Lance 1
+1667827875,HU,WireLance,Wired Lances hit,Melee,Wired Lance 2
+1667828192,HU,WireLance,Wired Lances hit,Melee,Wired Lance 3
+1667395446,HU,WireLance,Wired Lances Step Attack,Melee,Wired Lances Step Attack
+2996928382,HU,WireLance,Bind Through,PA,Bind Through pickup
+377627045,HU,WireLance,Bind Through,PA,Bind Through slam
+1615246036,HU,WireLance,Grapple Charge,PA,Grapple Charge grapple
+1667543020,HU,WireLance,Grapple Charge,PA,Grapple Charge charge
+4142951253,HU,WireLance,Heavenly Fall,PA,Heavenly Fall heaven
+1713894514,HU,WireLance,Heavenly Fall,PA,Heavenly Fall fall
+1850125110,HU,WireLance,Other Cyclone,PA,Other Cyclone grab
+1871999855,HU,WireLance,Other Cyclone,PA,Other Cyclone cyclone
+455829749,HU,WireLance,Other Cyclone,PA,Other Cyclone fling
+1370775705,HU,WireLance,Other Cyclone (C),PA,Other Cyclone craft grab
+3838831464,HU,WireLance,Other Cyclone (C),PA,spin
+3070400580,HU,WireLance,Other Cyclone (C),PA,throw
+4266934922,HU,WireLance,Other Cyclone (C),PA,Other Cyclone (C) thrown into enemy (ground)
+781364083,HU,WireLance,Other Spin,PA,Other spin start
+516963559,HU,WireLance,Other Spin,PA,Other spin spin
+1667539754,HU,WireLance,Other Spin,PA,Other spin end
+3976609677,HU,WireLance,Holding Current,PA,Holding current latch
+4083023452,HU,WireLance,Holding Current,PA,Holding current spamclick ticks
+604066823,HU,WireLance,Holding Current,PA,Holding current auto ticks
+1667539691,HU,WireLance,Holding Current,PA,Holding current detatch
+1667539880,HU,WireLance,Air Pocket Swing,PA,Air Pocket Swing
+1667539817,HU,WireLance,Cerberus Dance,PA,Cerberus Dance
+185880800,HU,WireLance,Cerberus Dance,PA,Cerberus Dance finish
+4083015423,HU,WireLance,Cerberus Dance (C),PA,Cerberus Dance (crafted)
+1181894001,HU,WireLance,Cerberus Dance (C),PA,Cerberus Dance finish (crafted)
+1667539503,HU,WireLance,Wild Round,PA,Wild Round
+4083089437,HU,WireLance,Kaiser Rise,PA,Kaiser Rise
+4083089500,HU,WireLance,Adapting Spin,PA,Adapting spin 
+778603760,FI,DoubleSaber,Double Saber hit,Melee,Double Saber 1
+2169426261,FI,DoubleSaber,Double Saber hit,Melee,Double Saber 2
+1915920209,FI,DoubleSaber,Double Saber hit,Melee,Double Saber 3
+3587443201,FI,DoubleSaber,Double Saber hit,Melee,Double Saber air first normal attack
+2489626506,FI,DoubleSaber,Double Saber hit,Melee,Double Saber air second normal attack
+3086213424,FI,DoubleSaber,Double Saber hit,Melee,Double Saber air third normal attack
+422538670,FI,DoubleSaber,Double Saber Step Attack,Melee,Double Saber Step
+2620269130,FI,DoubleSaber,Double Saber Gear,Special,Double Saber Gear level 1 (Kamaitachi) (Fi skill)
+2620268940,FI,DoubleSaber,Double Saber Gear,Special,Double Saber Gear level 2 (Kamaitachi) (Fi skill)
+2620269005,FI,DoubleSaber,Double Saber Gear,Special,Double Saber Gear level 3 (Kamaitachi) (Fi skill)
+1825444869,FI,DoubleSaber,Tornado Dance,PA,
+275226098,FI,DoubleSaber,Tornado Dance (C),PA,
+3746811944,FI,DoubleSaber,Tornado Dance (C),PA,
+1652495452,FI,DoubleSaber,Scissor Edge,PA,Scissor Edge initial hit
+2998595631,FI,DoubleSaber,Scissor Edge,PA,Scissor Edge additional hits
+4252278068,FI,DoubleSaber,Rumbling Moon,PA,Rumbling moon first four hits
+4115432396,FI,DoubleSaber,Rumbling Moon,PA,Rumbling moon final hit
+262573151,FI,DoubleSaber,Illusion Rave,PA,Illusion Rave (like the first half)
+1810428573,FI,DoubleSaber,Illusion Rave,PA,Illusion Rave (other half of the hits)
+122219643,FI,DoubleSaber,Illusion Rave,PA,Illusion Rave (Final hit - third half!!)
+206972203,FI,DoubleSaber,Fake Capture,PA,Fake Capture hits
+207210116,FI,DoubleSaber,Fake Capture,PA,Fake Capture slam dunk
+1531593100,FI,DoubleSaber,Surprise Dunk,PA,Surprise Dunk (first three hits)
+129472838,FI,DoubleSaber,Surprise Dunk,PA,Surprise Dunk (dunk portion)
+4243814605,FI,DoubleSaber,Deadly Archer,PA,Deadly Archer
+2726424864,FI,DoubleSaber,Acro Effect,PA,Acro Effect
+1319999679,FI,DoubleSaber,Deadly Circle,PA,Deadly Circle
+1215958429,FI,DoubleSaber,Deadly Circle (C),PA,Deadly Circle craft
+3025396833,FI,DoubleSaber,Chaos Riser,PA,Chaos Riser (no gear)
+3025396896,FI,DoubleSaber,Chaos Riser,PA,Chaos Riser (Level 2 gear)
+3025396960,FI,DoubleSaber,Chaos Riser,PA,Chaos Riser
+1523926491,FI,DoubleSaber,Huricane Sender,PA,Hurricane sender send
+524784934,FI,DoubleSaber,Huricane Sender,PA,Hurricane sender detonate
+1523926426,FI,DoubleSaber,Huricane Sender,PA,Hurricane sender send (level2 gear)
+524782206,FI,DoubleSaber,Huricane Sender,PA,Hurricane detonate (level 2 gear)
+1523926105,FI,DoubleSaber,Huricane Sender,PA,Hurricane send (level 2 gear)
+524782271,FI,DoubleSaber,Huricane Sender,PA,Hurricane detonate (*level 3 gear)
+2378312327,FI,TwinDagger,Twin Daggers hit,Melee,
+2378312320,FI,TwinDagger,Twin Daggers hit,Melee,
+2378312321,FI,TwinDagger,Twin Daggers hit,Melee,
+3816723344,FI,TwinDagger,Twin Daggers hit,Melee,0 gear air first normal attack
+3816723347,FI,TwinDagger,Twin Daggers hit,Melee,1 gear
+3816723346,FI,TwinDagger,Twin Daggers hit,Melee,2 gear
+3816723349,FI,TwinDagger,Twin Daggers hit,Melee,3 gear
+1163229184,FI,TwinDagger,Twin Daggers hit,Melee,0 gear air second normal attack
+1163229191,FI,TwinDagger,Twin Daggers hit,Melee,1 gear
+1163229190,FI,TwinDagger,Twin Daggers hit,Melee,2 gear
+1163229189,FI,TwinDagger,Twin Daggers hit,Melee,3 gear
+1893769682,FI,TwinDagger,Twin Daggers hit,Melee,0 gear air third normal attack
+1893769685,FI,TwinDagger,Twin Daggers hit,Melee,1 gear
+1893769684,FI,TwinDagger,Twin Daggers hit,Melee,2 gear
+1893769687,FI,TwinDagger,Twin Daggers hit,Melee,3 gear
+2767975965,FI,TwinDagger,Twin Daggers Step Attack,Melee,Twin Daggers Step
+3115487285,FI,TwinDagger,Twin Daggers Spin,Special,0 gear Twin Daggers Spin
+3115487274,FI,TwinDagger,Twin Daggers Spin,Special,1 gear
+3115487275,FI,TwinDagger,Twin Daggers Spin,Special,2 gear
+3115487272,FI,TwinDagger,Twin Daggers Spin,Special,3 gear
+238277165,FI,TwinDagger,Raging Waltz,PA,Raging Waltz 0 gear
+238277154,FI,TwinDagger,Raging Waltz,PA,Raging Waltz 1 gear
+238277155,FI,TwinDagger,Raging Waltz,PA,Raging Waltz 2 gear
+238277152,FI,TwinDagger,Raging Waltz,PA,Raging Waltz 3 gear
+1205859347,FI,TwinDagger,Raging Waltz (C),PA,Raging Waltz (type-0) 0 gear
+1205859348,FI,TwinDagger,Raging Waltz (C),PA,Raging Waltz (type-0) 1(?) gear
+1205859349,FI,TwinDagger,Raging Waltz (C),PA,Raging Waltz (type-0) 2(?) gear
+1205859350,FI,TwinDagger,Raging Waltz (C),PA,Raging Waltz (type-0) 3(?) gear
+2053605232,FI,TwinDagger,Shoot Polka,PA,Shoot Polka 'stage 0' gear
+2053605233,FI,TwinDagger,Shoot Polka,PA,Shoot Polka 'stage 1' gear
+2053605246,FI,TwinDagger,Shoot Polka,PA,Shoot Polka 'stage 2' gear
+2053605247,FI,TwinDagger,Shoot Polka,PA,Shoot Polka 'stage 3' gear
+1193225277,FI,TwinDagger,Scar Fugue,PA,Scar Fugue 0 gear first hit
+1193225276,FI,TwinDagger,Scar Fugue,PA,1 gear
+1193225279,FI,TwinDagger,Scar Fugue,PA,2 gear
+1193225278,FI,TwinDagger,Scar Fugue,PA,3 gear
+2790036905,FI,TwinDagger,Scar Fugue,PA,Scar Fugue 0 gear second hit
+2790036906,FI,TwinDagger,Scar Fugue,PA,1 gear
+2790036907,FI,TwinDagger,Scar Fugue,PA,2 gear
+2790036908,FI,TwinDagger,Scar Fugue,PA,3 gear
+721495005,FI,TwinDagger,Scar Fugue,PA,Scar Fugue 0 gear third hit
+721495004,FI,TwinDagger,Scar Fugue,PA,1 gear
+721495003,FI,TwinDagger,Scar Fugue,PA,2 gear
+721495002,FI,TwinDagger,Scar Fugue,PA,3 gear
+3998547224,FI,TwinDagger,Wild Rhapsody,PA,Wild Rhapsody 'stage 0' gear
+3998547225,FI,TwinDagger,Wild Rhapsody,PA,Wild Rhapsody 'stage 1' gear
+3998547226,FI,TwinDagger,Wild Rhapsody,PA,Wild Rhapsody 'stage 2' gear
+3998547227,FI,TwinDagger,Wild Rhapsody,PA,Wild Rhapsody 'stage 3' gear
+2711968273,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 0 gear first two hits
+2711968272,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 1 gear
+2711968287,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 2 gear
+2711968286,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 3 gear
+2115627931,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 0 gear final
+2115627930,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 1 gear
+2115627909,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 2 gear
+2115627908,FI,TwinDagger,Dark Scherzo,PA,Dark Scherzo 3 gear
+3438453616,FI,TwinDagger,Quick March,PA,Quick March 0 gear 2 kicks
+3438453623,FI,TwinDagger,Quick March,PA,Quick March 1 gear
+3438453622,FI,TwinDagger,Quick March,PA,Quick March 2 gear
+3438453621,FI,TwinDagger,Quick March,PA,Quick March 3 gear
+751181375,FI,TwinDagger,Quick March,PA,Quick March 0-1(?) gear final
+751181369,FI,TwinDagger,Quick March,PA,Quick March 2 gear
+751181368,FI,TwinDagger,Quick March,PA,Quick March 3 gear
+2764513441,FI,TwinDagger,Symphonic Drive,PA,0 gear Symphonic Drive first kick
+2764513442,FI,TwinDagger,Symphonic Drive,PA,1 gear
+2764513443,FI,TwinDagger,Symphonic Drive,PA,2 gear
+2764513444,FI,TwinDagger,Symphonic Drive,PA,3 gear
+167868454,FI,TwinDagger,Symphonic Drive,PA,0 gear Symphonic Drive second kick
+167868455,FI,TwinDagger,Symphonic Drive,PA,1 gear
+167868448,FI,TwinDagger,Symphonic Drive,PA,2 gear
+167868449,FI,TwinDagger,Symphonic Drive,PA,3 gear
+120509749,FI,TwinDagger,Orchestra,PA,0 gear Orchestra
+120509750,FI,TwinDagger,Orchestra,PA,1 gear
+120509751,FI,TwinDagger,Orchestra,PA,2 gear
+120509752,FI,TwinDagger,Orchestra,PA,3 gear
+1362404324,FI,TwinDagger,Orchestra,PA,0 gear Orchestra finish
+1362404325,FI,TwinDagger,Orchestra,PA,1 gear
+1362404326,FI,TwinDagger,Orchestra,PA,2 gear
+1362404327,FI,TwinDagger,Orchestra,PA,3 gear
+1022160397,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 0 gear pt1
+1022160396,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 1 gear
+1022160395,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 2 gear
+1022160394,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 3 gear
+1185927985,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 0 gear pt2 ground
+2745888524,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 0 gear pt2 air
+2745888515,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 1 gear
+2745888514,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 2 gear
+2745888513,FI,TwinDagger,Bloody Sarabande,PA,Bloody Saranbande 3 gear
+2569859798,FI,TwinDagger,Facet Folia,PA,Facet Folia 0 gear start
+2569859799,FI,TwinDagger,Facet Folia,PA,Facet Folia 1 gear
+2569859796,FI,TwinDagger,Facet Folia,PA,Facet Folia 2 gear
+2569859797,FI,TwinDagger,Facet Folia,PA,Facet Folia 3 gear
+3225817327,FI,TwinDagger,Facet Folia,PA,Facet Folia 0 gear combo
+3225817324,FI,TwinDagger,Facet Folia,PA,Facet Folia 1 gear
+3225817325,FI,TwinDagger,Facet Folia,PA,Facet Folia 2 gear
+3225817234,FI,TwinDagger,Facet Folia,PA,Facet Folia 3 gear
+1460149683,FI,TwinDagger,Facet Folia,PA,Facet Folia 0 gear finish
+1460149681,FI,TwinDagger,Facet Folia,PA,Facet Folia 1 gear
+1460149686,FI,TwinDagger,Facet Folia,PA,Facet Folia 2 gear
+1460149680,FI,TwinDagger,Facet Folia,PA,Facet Folia 3 gear
+1622238417,FI,TwinDagger,Fall Nocturne,PA,Fall Nocturne 0-1 gear
+1622238480,FI,TwinDagger,Fall Nocturne,PA,Fall Nocturne 2 gear
+1622238547,FI,TwinDagger,Fall Nocturne,PA,Fall Nocturne 3 gear
+1325529929,FI,Knuckle,Knuckles hit,Melee,Knuckles 1
+1539605878,FI,Knuckle,Knuckles hit,Melee,Knuckles 2
+2996195244,FI,Knuckle,Knuckles hit,Melee,Knuckles 3
+3833651966,FI,Knuckle,Knuckles hit,Melee,Knuckles air first normal attack
+3392788140,FI,Knuckle,Knuckles hit,Melee,Knuckles air second normal attack
+2085169672,FI,Knuckle,Knuckles hit,Melee,Knuckles air third normal attack
+1024789612,FI,Knuckle,Knuckles Step Attack,Melee,Knuckles Step
+3490454980,FI,Knuckle,Ducking Blow,PA,
+2220142187,FI,Knuckle,Flicker Jab,PA,
+2800536054,FI,Knuckle,Pendulum Roll,PA,
+4153501826,FI,Knuckle,Slide Uppercut (C),PA,Slide Uppercut (crafted)
+4153501763,FI,Knuckle,Slide Uppercut (C),PA,Slide Uppercut (crafted) uncharged
+3732653666,FI,Knuckle,Straight Charge,PA,Straight Charge (first hit) charge
+3964807003,FI,Knuckle,Straight Charge,PA,Straight Charge (after first) charge
+524347705,FI,Knuckle,Straight Charge,PA,Straight Charge (first hit) uncharge
+2294749657,FI,Knuckle,Straight Charge,PA,Straight Charge (after first) uncharge
+3383204495,FI,Knuckle,Straight Charge (C),PA,Straight Charge (Type-0) no charge
+1438955103,FI,Knuckle,Straight Charge (C),PA,Straight Charge (Type-0) charge 1 (activates after 5 hits)
+895673964,FI,Knuckle,Quake Howling,PA,Quake howling
+71364306,FI,Knuckle,Surprise Knuckle,PA,Surprise Knuckle
+1586239574,FI,Knuckle,Flash Thousand,PA,Flash Thousand uppercut
+3809237665,FI,Knuckle,Flash Thousand,PA,Flash Thousand jabs
+653244323,FI,Knuckle,Backhand Smash,PA,Backhand Smash
+653244128,FI,Knuckle,Backhand Smash,PA,Backhand Smash
+653244002,FI,Knuckle,Backhand Smash,PA,Backhand Smash
+2796397201,FI,Knuckle,Meteor Fist,PA,Meteor Fist (lots of fists edition)
+1647551898,FI,Knuckle,Meteor Fist,PA,Meteor Fist charged (lots of fists)
+1160708678,FI,Knuckle,Meteor Fist,PA,Meteor Fist (medium fist no gear)
+1050511877,FI,Knuckle,Meteor Fist,PA,Meteor Fist (bigass fist edition)
+70519939,FI,Knuckle,Meteor Fist,PA,MEGAFIST
+1169988911,FI,Knuckle,Heartless Impact,PA,Heartless Impact part 1
+63569063,FI,Knuckle,Heartless Impact,PA,Heartless Impact part 2
+3146534752,BR,Katana,Katana hit,Melee,Katana 1
+3146534691,BR,Katana,Katana hit,Melee,Katana 2
+3146534882,BR,Katana,Katana hit,Melee,Katana 3
+3103989825,BR,Katana,Katana hit,Melee,Katana air first normal attack 
+3103990658,BR,Katana,Katana hit,Melee,Katana air second normal attack
+3103990723,BR,Katana,Katana hit,Melee,Katana air third normal attack
+3106156042,BR,Katana,Katana Step Attack,Melee,Katana Step
+2700168094,BR,Katana,Just Counter,Special,Just Counter 0 gear hit
+2700168093,BR,Katana,Just Counter,Special,Just Counter 1 gear
+2700168092,BR,Katana,Just Counter,Special,Just Counter 2 gear
+4143333980,BR,Katana,Just Counter,Special,Just Counter 3 gear
+4136181738,BR,Katana,Just Counter,Special,Just Counter (2-3 gear) second hit
+1987114712,BR,Katana,Counter Edge,Special,Counter Edge 0-1 gear
+4184015666,BR,Katana,Counter Edge,Special,Counter Edge 2-3 gear
+3148575588,BR,Katana,Tsukimi-sazanka,PA,Tsukimi-sazanka
+215665118,BR,Katana,Gekka-zakuro,PA,Gekka-zakuro downswing
+2160628938,BR,Katana,Gekka-zakuro,PA,Gekka upswing
+3148575462,BR,Katana,Kanran-kikyou,PA,Kanran uncharged
+206856796,BR,Katana,Kanran-kikyou,PA,Kanran charged
+3148575399,BR,Katana,Sakura-endo,PA,Sakura uncharged
+206860877,BR,Katana,Sakura-endo,PA,Sakura charged
+3124578212,BR,Katana,Sakura-endo (C),PA,Sakura-endo (type-0) first hit
+18135230,BR,Katana,Sakura-endo (C),PA,Sakura-endo (type-0) second hit
+3148574817,BR,Katana,Hien-tsubaki,PA,Hien
+3148574752,BR,Katana,Asagiri-rendan,PA,Asagiri
+3341396290,BR,Katana,Asagiri-rendan,PA,Asagiri-rendan final hit
+106956039,BR,Katana,Hatou-rindou,PA,Hatou Rindou charged first hit
+168167719,BR,Katana,Hatou-rindou,PA,Hatou Rindou charged second hit
+3651508774,BR,Katana,Hatou-rindou,PA,Hatou uncharged
+2325733367,BR,Katana,Hatou-rindou,PA,Hatou uncharged doublehit
+273071015,BR,Katana,Hatou-rindou,PA,Hatou charged close
+2209628291,BR,Katana,Hatou-rindou,PA,Hatou charged medium
+1651702934,BR,Katana,Hatou-rindou,PA,Hatou charged SWEET SPOOOOT
+2585461118,BR,Katana,Shunka-shunran,PA,Shunka uncharged
+3513096229,BR,Katana,Shunka-shunran,PA,Shunka charged start
+2264839669,BR,Katana,Shunka-shunran,PA,Shunka charged main combo
+1450022218,BR,Katana,Shunka-shunran,PA,Shunka-shunran left/right slash
+1309789969,BR,Katana,Shunka-shunran,PA,Shunka megaslash 1 of 2
+2017360610,BR,Katana,Shunka-shunran,PA,Shunka megaslash 2 of 2
+3148578174,BR,Katana,Kazan-nadeshiko,PA,Kazan (uncrafted)
+2323234226,BR,Katana,Kazan-nadeshiko (C),PA,Kazan (crafted) uncharged
+2323234289,BR,Katana,Kazan-nadeshiko (C),PA,Kazan (crafted) stage 1 charge
+2323233840,BR,Katana,Kazan-nadeshiko (C),PA,Kazan (crafted) stage 2 charge
+206850016,BR,Katana,Fuduo-kuchinashi,PA,Fuduo
+1776976279,BR,Katana,Guren-tessen,PA,Guren dash
+1522008442,BR,Katana,Guren-tessen,PA,Guren slash
+156270665,BR,Katana,Katana Combat,Special,Katana finish slash
+4259442013,BR,Katana,Katana Combat,Special,Katana finish megaslash
+990294516,BO,DualBlades,Dual Blades hit,Melee,Dual Blades first normal attack
+990294325,BO,DualBlades,Dual Blades hit,Melee,Dual Blades second normal attack
+990294387,BO,DualBlades,Dual Blades hit,Melee,Dual Blades third normal attack
+996054556,BO,DualBlades,Dual Blades hit,Melee,Dual Blades air first normal attack
+996054749,BO,DualBlades,Dual Blades hit,Melee,Dual Blades air second normal attack
+996054686,BO,DualBlades,Dual Blades hit,Melee,Dual Blades air third normal attack
+991363414,BO,DualBlades,Dual Blades Step Attack,Melee,Dual Blades step attack
+1317379950,BO,DualBlades,Dual Blades Snatch Step,Special,Dual Blade Snatch step ring
+3920319747,BO,DualBlades,Photon Blades,Special,Photon blades
+2866606807,BO,DualBlades,Photon Blades,Special,Photon blade fever
+2674942872,BO,DualBlades,Distraction Wing,PA,Distraction Wing
+2674942873,BO,DualBlades,Distraction Wing,PA,#NAME?
+2674942854,BO,DualBlades,Distraction Wing,PA,#NAME?
+2674942855,BO,DualBlades,Distraction Wing,PA,#NAME?
+1077400737,BO,DualBlades,Dispersion Shrike,PA,Dispersion Strike
+1077400736,BO,DualBlades,Dispersion Shrike,PA,#NAME?
+1077400739,BO,DualBlades,Dispersion Shrike,PA,#NAME?
+1077400738,BO,DualBlades,Dispersion Shrike,PA,#NAME?
+1536765733,BO,DualBlades,Heavenly Kite,PA,Heavenly Kite (start)
+1536765732,BO,DualBlades,Heavenly Kite,PA,#NAME?
+1536765735,BO,DualBlades,Heavenly Kite,PA,#NAME?
+1536765734,BO,DualBlades,Heavenly Kite,PA,#NAME?
+3702927798,BO,DualBlades,Heavenly Kite,PA,Heavenly Kite (spin)
+3702927797,BO,DualBlades,Heavenly Kite,PA,#NAME?
+3702927796,BO,DualBlades,Heavenly Kite,PA,#NAME?
+3702927803,BO,DualBlades,Heavenly Kite,PA,#NAME?
+770345041,BO,DualBlades,Justice Crow,PA,Justice Crow (star forming)
+770345042,BO,DualBlades,Justice Crow,PA,#NAME?
+770345043,BO,DualBlades,Justice Crow,PA,#NAME?
+770345044,BO,DualBlades,Justice Crow,PA,#NAME?
+1549517485,BO,DualBlades,Justice Crow,PA,Justice Crow (projectile shot)
+1549517474,BO,DualBlades,Justice Crow,PA,#NAME?
+1549517475,BO,DualBlades,Justice Crow,PA,#NAME?
+1549517472,BO,DualBlades,Justice Crow,PA,#NAME?
+2231885709,BO,DualBlades,Starling Fall,PA,Starling Fall (hit 1)
+2231885710,BO,DualBlades,Starling Fall,PA,#NAME?
+2231885711,BO,DualBlades,Starling Fall,PA,#NAME?
+2231885744,BO,DualBlades,Starling Fall,PA,#NAME?
+3810810460,BO,DualBlades,Starling Fall,PA,Starling Fall (hit 2)
+3810810461,BO,DualBlades,Starling Fall,PA,#NAME?
+3810810462,BO,DualBlades,Starling Fall,PA,#NAME?
+3810810463,BO,DualBlades,Starling Fall,PA,#NAME?
+2840651037,BO,DualBlades,Kestral Rampage,PA,Kestral rampage
+2840651036,BO,DualBlades,Kestral Rampage,PA,#NAME?
+2840651039,BO,DualBlades,Kestral Rampage,PA,#NAME?
+2840651038,BO,DualBlades,Kestral Rampage,PA,#NAME?
+4277013577,BO,DualBlades,Kestrel Rampage (C),PA,Kestrel Rampage craft no gear
+4277013576,BO,DualBlades,Kestrel Rampage (C),PA,1 gear
+4277013623,BO,DualBlades,Kestrel Rampage (C),PA,2 gear
+4277013622,BO,DualBlades,Kestrel Rampage (C),PA,3 gear
+823939487,BO,DualBlades,Immortal Dove,PA,Immortal Dove (ground hit part 1)
+823939486,BO,DualBlades,Immortal Dove,PA,#NAME?
+823939485,BO,DualBlades,Immortal Dove,PA,#NAME?
+823939484,BO,DualBlades,Immortal Dove,PA,#NAME?
+630801458,BO,DualBlades,Immortal Dove,PA,Immortal Dove (ground hit part 2)
+630801461,BO,DualBlades,Immortal Dove,PA,#NAME?
+630801460,BO,DualBlades,Immortal Dove,PA,#NAME?
+630801463,BO,DualBlades,Immortal Dove,PA,#NAME?
+2263183151,BO,DualBlades,Immortal Dove,PA,Immortal Dove (air)
+2263183150,BO,DualBlades,Immortal Dove,PA,#NAME?
+2263183145,BO,DualBlades,Immortal Dove,PA,#NAME?
+2263183144,BO,DualBlades,Immortal Dove,PA,#NAME?
+2272169032,BR,BulletBow,Bullet Bow hit,Ranged,Bow normal
+2272172706,BR,BulletBow,Bullet Bow hit,Ranged,Bow normal(charge)
+3762661375,BR,BulletBow,Bullet Bow Step Attack,Melee,Step Attack
+346594595,BR,BulletBow,Master Shot,PA,Master Shot (uncharged)
+346612320,BR,BulletBow,Master Shot,PA,Master Shot (charged)
+345271774,BR,BulletBow,Penetrating Arrow,PA,Penetrating Arrow (uncharged)
+345281053,BR,BulletBow,Penetrating Arrow,PA,Penetrating Arrow (charged)
+347381214,BR,BulletBow,Torrential Arrow,PA,Torrential Arrow (uncharged)
+347381151,BR,BulletBow,Torrential Arrow,PA,Torrential Arrow (charged)
+3485093660,BR,BulletBow,Gravity Point,PA,Gravity Point (uncharged)
+3438287013,BR,BulletBow,Gravity Point,PA,Gravity Point suction (uncharged)
+3485092908,BR,BulletBow,Gravity Point,PA,Gravity Point (charged)
+3438287076,BR,BulletBow,Gravity Point,PA,Gravity Point suction (charged)
+3470042837,BR,BulletBow,Kamikaze Arrow,PA,Kamikaze Arrow fling
+3439973719,BR,BulletBow,Kamikaze Arrow,PA,Kamikaze Arrow rebound
+3470042646,BR,BulletBow,Kamikaze Arrow,PA,Kamikaze Arrow fling (charged)
+3439973654,BR,BulletBow,Kamikaze Arrow,PA,Kamikaze Arrow rebound (charged)
+294311563,BR,BulletBow,Sharp Bomber,PA,Sharp Bomber
+3671759171,BR,BulletBow,Sharp Bomber (C),PA,Sharp Bomber (Type-0) uncharged
+3671760384,BR,BulletBow,Sharp Bomber (C),PA,Sharp Bomber (Type-0) charged
+3765323771,BR,BulletBow,Final Nemesis,PA,Final Nemesis
+294299758,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter kicks
+294300276,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter shot
+349059562,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter roundhouse
+349008452,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter (crafted) kicks
+349008990,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter (crafted) shots
+3255472210,BR,BulletBow,Tritt Shooter,PA,Tritt Shooter (crafted) roundhouse
+348753019,BR,BulletBow,Banishing Arrow,PA,Banishing Arrow
+294264661,BR,BulletBow,Million Storm,PA,Million Storm
+294264342,BR,BulletBow,Chase Arrow,PA,Chase Arrow
+1856399071,RA,Rifle,Assault Rifle hit,Ranged,Rifle shot
+220156466,RA,Rifle,Dive Roll (Assault Rifle) hit,Ranged,Rifle Diveroll shoot
+713142898,RA,Rifle,Weak Bullet,Special,Weak bullet hit
+192041748,RA,Rifle,Bind Bullet,Special,Bind Bullet (Ra skill)
+220056925,RA,Rifle,Piercing Shell,PA,Piercing Shell
+220057357,RA,Rifle,Grenade Shell,PA,Grenade Shell
+220057548,RA,Rifle,One Point,PA,One Point
+220057487,RA,Rifle,Diffuse Shell,PA,Diffuse Shell
+220057166,RA,Rifle,Homing Emission,PA,Homing Emission (uncrafted)
+3857665729,RA,Rifle,Homing Emission (C),PA,Homing Emission (crafted)
+220056584,RA,Rifle,Impact Slider,PA,Impact Slider
+1218987301,RA,Rifle,Impact Slider,PA,Impact Slider (kick)
+220056777,RA,Rifle,Sneak Shooter,PA,Sneak Shooter
+1190704694,RA,Rifle,Glorious Rain,PA,Glorious Rain 'start'
+220056714,RA,Rifle,Glorious Rain,PA,Glorious Rain
+220057419,RA,Rifle,Parallel Slider,PA,Parallel Slider
+3857649477,RA,Rifle,Parallel Slider (C),PA,Parallel Slider (Type-0)
+2295790933,RA,Rifle,Satellite Cannon,PA,Satellite Cannon (no charge)
+2295790868,RA,Rifle,Satellite Cannon,PA,Satellite Cannon (half charge)
+2295790295,RA,Rifle,Satellite Cannon,PA,Satellite Cannon (full charge)
+2285537842,RA,Rifle,End Attraction,PA,End Attraction (no charge)
+2285537907,RA,Rifle,End Attraction,PA,End Attraction (half charge)
+2285538736,RA,Rifle,End Attraction,PA,End Attraction (full charge)
+594271163,RA,Launcher,Launcher hit,Ranged,First
+594271098,RA,Launcher,Launcher hit,Ranged,Second
+594270780,RA,Launcher,Launcher hit,Ranged,Third
+2731320054,RA,Launcher,Dive Roll (Launcher) hit,Ranged,Dive roll shoot
+3433218069,RA,Launcher,Mirage Shot,Special,Mirage Shot (Ra skill)
+1201754534,RA,Launcher,Panic Shot,Special,Panic Shot (Ra skill)
+2734794071,RA,Launcher,Jellen Shot,Special,Jellen Shot (Ra skill)
+2709160760,RA,Launcher,Divine Launcher,PA,Divine Launcher
+1445952978,RA,Launcher,Divine Launcher (C),PA,uncharged
+1445953294,RA,Launcher,Divine Launcher (C),PA,charged
+2709161692,RA,Launcher,Concentrate One,PA,Concentrate One
+2709161629,RA,Launcher,Cluster Bullet,PA,Cluster Bullet
+2219649314,RA,Launcher,Cracker Bullet,PA,Cracker Bullet (multihit)
+2709161566,RA,Launcher,Cracker Bullet,PA,Cracker Bullet (final)
+2709161503,RA,Launcher,Zero Distance,PA,Zero Distance
+2219642677,RA,Launcher,Rodeo Drive,PA,Rodeo Drive
+2219641904,RA,Launcher,Rodeo Drive,PA,Rodeo Drive air start hit
+2419129261,RA,Launcher,Rodeo Drive (C),PA,Rodeo Drive (type-0) ride 
+3817341497,RA,Launcher,Rodeo Drive (C),PA,Rodeo Drive (type-0) finisher uncharged
+3817342330,RA,Launcher,Rodeo Drive (C),PA,Rodeo Drive (type-0) finisher charged
+2709161368,RA,Launcher,Crazy Smash,PA,Crazy Smash (direct enemy)
+2219699734,RA,Launcher,Fake Silhouette,PA,Fake Silhouette
+2709161242,RA,Launcher,Flame Bullet,PA,Flame Bullet
+2219596384,RA,Launcher,Cosmos Breaker,PA,Cosmos Breaker
+2219595324,RA,Launcher,Sphere Eraser,PA,Sphere Eraser
+2751377490,RA,Launcher,Prominence Assail,Special,Prominence Assail jump hit
+2751377556,RA,Launcher,Prominence Assail,Special,Prominence Assail hits
+2751377621,RA,Launcher,Prominence Assail,Special,Prominence Assail final hit
+3132894402,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,First attack (4x) 0 gear
+3132894403,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,1 gear
+3132894401,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,2 gear
+3132894400,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,3 gear
+1923738865,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,Second attack (4x) 0 gear
+1923738870,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,1 gear
+1923738868,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,2 gear
+1923738871,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,3 gear
+1901223401,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,Third attack (5x) 0 gear
+1901223406,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,1 gear
+1901223404,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,2 gear
+1901223407,GU,TwinMachinegun,Twin Machine Guns hit,Ranged,3 gear
+2297353124,GU,TwinMachinegun,Dive Roll (Twin Machine Guns) hit,Ranged,Dive roll shoot 0 gear
+2297352795,GU,TwinMachinegun,Dive Roll (Twin Machine Guns) hit,Ranged,1 gear
+2297352794,GU,TwinMachinegun,Dive Roll (Twin Machine Guns) hit,Ranged,2 gear
+2297352793,GU,TwinMachinegun,Dive Roll (Twin Machine Guns) hit,Ranged,3 gear
+2594009166,GU,TwinMachinegun,Stylish Roll hit,Ranged,S-roll shoot 0 gear
+2594009167,GU,TwinMachinegun,Stylish Roll hit,Ranged,1 gear
+2594009160,GU,TwinMachinegun,Stylish Roll hit,Ranged,2 gear
+2594009161,GU,TwinMachinegun,Stylish Roll hit,Ranged,3 gear
+534488752,GU,TwinMachinegun,Stylish Roll hit,Ranged,S-Roll shoot 0 gear (Another S-Roll Arts Mode) (Gu skill)
+2628225583,GU,TwinMachinegun,Stylish Roll hit,Ranged,S-Roll shoot 1 gear (Another S-Roll Arts Mode) (Gu skill)
+3710533329,GU,TwinMachinegun,Stylish Roll hit,Ranged,S-Roll shoot 2 gear (Another S-Roll Arts Mode) (Gu skill)
+2718316197,GU,TwinMachinegun,Stylish Roll hit,Ranged,S-Roll shoot 3 gear (Another S-Roll Arts Mode) (Gu skill)
+891590654,GU,TwinMachinegun,Aerial Shooting,PA,Aerial shooting (uncharged kick) 0 gear
+891590641,GU,TwinMachinegun,Aerial Shooting,PA,1 gear
+891590640,GU,TwinMachinegun,Aerial Shooting,PA,2 gear
+891590643,GU,TwinMachinegun,Aerial Shooting,PA,3 gear
+4004748150,GU,TwinMachinegun,Aerial Shooting,PA,Aerial shooting (charged launch) 0 gear
+4004748151,GU,TwinMachinegun,Aerial Shooting,PA,1 gear
+4004748144,GU,TwinMachinegun,Aerial Shooting,PA,2 gear
+4004748145,GU,TwinMachinegun,Aerial Shooting,PA,3 gear
+4004760231,GU,TwinMachinegun,Aerial Shooting,PA,Aerial shooting (first air hit) 0 gear
+4004760230,GU,TwinMachinegun,Aerial Shooting,PA,1 gear
+4004760225,GU,TwinMachinegun,Aerial Shooting,PA,2 gear
+4004760224,GU,TwinMachinegun,Aerial Shooting,PA,3 gear
+4004772370,GU,TwinMachinegun,Aerial Shooting,PA,Aerial shooting (second air hit) 0 gear
+4004772369,GU,TwinMachinegun,Aerial Shooting,PA,1 gear
+4004772368,GU,TwinMachinegun,Aerial Shooting,PA,2 gear
+4004772375,GU,TwinMachinegun,Aerial Shooting,PA,3 gear
+3463411283,GU,TwinMachinegun,Bullet Squall,PA,Bullet Squall start (uncrafted) 0 gear
+3463411282,GU,TwinMachinegun,Bullet Squall,PA,1 gear
+3463411293,GU,TwinMachinegun,Bullet Squall,PA,2 gear
+3463411292,GU,TwinMachinegun,Bullet Squall,PA,3 gear
+443425897,GU,TwinMachinegun,Bullet Squall,PA,Bullet Squall shots (uncrafted) 0 gear
+443425896,GU,TwinMachinegun,Bullet Squall,PA,1 gear
+443425899,GU,TwinMachinegun,Bullet Squall,PA,2 gear
+443425898,GU,TwinMachinegun,Bullet Squall,PA,3 gear
+232817712,GU,TwinMachinegun,Dead Approach,PA,Dead Approach 0 gear
+232817719,GU,TwinMachinegun,Dead Approach,PA,1 gear
+232817718,GU,TwinMachinegun,Dead Approach,PA,2 gear
+232817717,GU,TwinMachinegun,Dead Approach,PA,3 gear
+3991628327,GU,TwinMachinegun,Messiah Time,PA,Messiah Time (every shot) 0 gear
+3991628324,GU,TwinMachinegun,Messiah Time,PA,1 gear
+3991628325,GU,TwinMachinegun,Messiah Time,PA,2 gear
+3991628330,GU,TwinMachinegun,Messiah Time,PA,3 gear
+3134942095,GU,TwinMachinegun,Infinite Fire,PA,Infinite Fire (initial volley) 0 gear
+3134942094,GU,TwinMachinegun,Infinite Fire,PA,1 gear
+3134942093,GU,TwinMachinegun,Infinite Fire,PA,2 gear
+3134942092,GU,TwinMachinegun,Infinite Fire,PA,3 gear
+879653107,GU,TwinMachinegun,Infinite Fire,PA,Infinite Fire (final volley) 0 gear
+879653104,GU,TwinMachinegun,Infinite Fire,PA,1 gear
+879653105,GU,TwinMachinegun,Infinite Fire,PA,2 gear
+879653110,GU,TwinMachinegun,Infinite Fire,PA,3 gear
+1612843143,GU,TwinMachinegun,Infinite Fire (C),PA,Infinite Fire craft 0 gear shots
+2004097432,GU,TwinMachinegun,Infinite Fire (C),PA,kick
+1345025835,GU,TwinMachinegun,Infinite Fire (C),PA,final blast
+1612843192,GU,TwinMachinegun,Infinite Fire (C),PA,1 gear shots
+2004097433,GU,TwinMachinegun,Infinite Fire (C),PA,kick
+1345025834,GU,TwinMachinegun,Infinite Fire (C),PA,final blast
+1612843193,GU,TwinMachinegun,Infinite Fire (C),PA,2 gear shots
+2004097434,GU,TwinMachinegun,Infinite Fire (C),PA,kick
+1345025833,GU,TwinMachinegun,Infinite Fire (C),PA,blast
+1612843194,GU,TwinMachinegun,Infinite Fire (C),PA,3 gear shots
+2004097435,GU,TwinMachinegun,Infinite Fire (C),PA,kick
+1345025832,GU,TwinMachinegun,Infinite Fire (C),PA,final blast
+1770510361,GU,TwinMachinegun,Satellite Aim,PA,Satellite Aim (hit 1) 0 gear
+1770510366,GU,TwinMachinegun,Satellite Aim,PA,1 gear
+1770510367,GU,TwinMachinegun,Satellite Aim,PA,2 gear
+1770510364,GU,TwinMachinegun,Satellite Aim,PA,3 gear
+2273182629,GU,TwinMachinegun,Satellite Aim,PA,Satellite Aim (hit 2) 0 gear
+2273181786,GU,TwinMachinegun,Satellite Aim,PA,1 gear
+2273181787,GU,TwinMachinegun,Satellite Aim,PA,2 gear
+2273181784,GU,TwinMachinegun,Satellite Aim,PA,3 gear
+1564855959,GU,TwinMachinegun,Satellite Aim,PA,Satellite Aim Battle Arena (hit 1) 
+3894802376,GU,TwinMachinegun,Satellite Aim,PA,Satellite Aim Battle Arena (hit 2)
+1108337397,GU,TwinMachinegun,Elder Rebellion,PA,Elder Rebellion (5 hits) 0 gear
+1108337396,GU,TwinMachinegun,Elder Rebellion,PA,1 gear
+1108337395,GU,TwinMachinegun,Elder Rebellion,PA,2 gear
+1108337394,GU,TwinMachinegun,Elder Rebellion,PA,3 gear
+4042421111,GU,TwinMachinegun,Elder Rebellion,PA,Elder Rebellion (2 blasts) 0 gear
+4042421110,GU,TwinMachinegun,Elder Rebellion,PA,1 gear
+4042421105,GU,TwinMachinegun,Elder Rebellion,PA,2 gear
+4042421104,GU,TwinMachinegun,Elder Rebellion,PA,3 gear
+3412194152,GU,TwinMachinegun,Elder Rebellion,PA,Elder Rebellion (final blast) 0 gear
+3412194159,GU,TwinMachinegun,Elder Rebellion,PA,1 gear
+3412194158,GU,TwinMachinegun,Elder Rebellion,PA,2 gear
+3412194157,GU,TwinMachinegun,Elder Rebellion,PA,3 gear
+1550097800,GU,TwinMachinegun,Reverse Tap,PA,Reverse tap 0 gear
+1550097807,GU,TwinMachinegun,Reverse Tap,PA,1 gear
+1550097806,GU,TwinMachinegun,Reverse Tap,PA,2 gear
+1550097805,GU,TwinMachinegun,Reverse Tap,PA,3 gear
+2371693862,GU,TwinMachinegun,Heel Stab,PA,Heel Stab (first kick) 0 gear
+2371693863,GU,TwinMachinegun,Heel Stab,PA,1 gear
+2371693860,GU,TwinMachinegun,Heel Stab,PA,2 gear
+2371693861,GU,TwinMachinegun,Heel Stab,PA,3 gear
+4134662873,GU,TwinMachinegun,Heel Stab,PA,Heel Stab (uncharged second) 0 gear
+4134662878,GU,TwinMachinegun,Heel Stab,PA,1 gear
+4134662879,GU,TwinMachinegun,Heel Stab,PA,2 gear
+4134662876,GU,TwinMachinegun,Heel Stab,PA,3 gear
+1163390941,GU,TwinMachinegun,Heel Stab,PA,Heel Stab (charged second) 0 gear
+1163390930,GU,TwinMachinegun,Heel Stab,PA,1 gear
+1163390931,GU,TwinMachinegun,Heel Stab,PA,2 gear
+1163390928,GU,TwinMachinegun,Heel Stab,PA,3 gear
+148870087,GU,TwinMachinegun,Heel Stab,PA,Heel Stab (charged volley) 0 gear
+148870086,GU,TwinMachinegun,Heel Stab,PA,1 gear
+148870081,GU,TwinMachinegun,Heel Stab,PA,2 gear
+148870080,GU,TwinMachinegun,Heel Stab,PA,3 gear
+3102409757,GU,TwinMachinegun,Shift Period,PA,Shift Period 0 gear
+3102409758,GU,TwinMachinegun,Shift Period,PA,Shift Period 1 gear
+3102409759,GU,TwinMachinegun,Shift Period,PA,Shift Period 2 gear
+3102409728,GU,TwinMachinegun,Shift Period,PA,Shift Period 3 gear
+2107489028,GU,TwinMachinegun,Shift Period,PA,Shift Period 0 gear
+2107489029,GU,TwinMachinegun,Shift Period,PA,Shift Period 1 gear
+2107489030,GU,TwinMachinegun,Shift Period,PA,Shift Period 2 gear
+2107489031,GU,TwinMachinegun,Shift Period,PA,Shift Period 3 gear
+2928127116,GU,TwinMachinegun,Shift Period,PA,Shift Period 0 gear
+2928127107,GU,TwinMachinegun,Shift Period,PA,Shift Period 1 gear
+2928127106,GU,TwinMachinegun,Shift Period,PA,Shift Period 2 gear
+2928127105,GU,TwinMachinegun,Shift Period,PA,Shift Period 3 gear
+4206265008,GU,TwinMachinegun,Shift Period,PA,Shift Period 0 gear
+4206265011,GU,TwinMachinegun,Shift Period,PA,Shift Period 1 gear
+4206265010,GU,TwinMachinegun,Shift Period,PA,Shift Period 2 gear
+4206265013,GU,TwinMachinegun,Shift Period,PA,Shift Period 3 gear
+2869490729,GU,TwinMachinegun,Shift Period,PA,Shift Period 0 gear final shot
+2869490728,GU,TwinMachinegun,Shift Period,PA,Shift Period 1 gear final shot
+2869490902,GU,TwinMachinegun,Shift Period,PA,Shift Period 2 gear final shot
+2869490903,GU,TwinMachinegun,Shift Period,PA,Shift Period 3 gear final shot
+896218141,GU,TwinMachinegun,Grim Barrage,PA,Grim Barrage 0 gear
+896218140,GU,TwinMachinegun,Grim Barrage,PA,1 gear
+896218139,GU,TwinMachinegun,Grim Barrage,PA,2 gear
+896218138,GU,TwinMachinegun,Grim Barrage,PA,3 gear
+1235843178,GU,TwinMachinegun,Grim Barrage,PA,Grim Barrage (part 2) 0 gear
+1235843181,GU,TwinMachinegun,Grim Barrage,PA,1 gear
+1235843180,GU,TwinMachinegun,Grim Barrage,PA,2 gear
+1235843183,GU,TwinMachinegun,Grim Barrage,PA,3 gear
+3540874879,BO,JetBoots,Jet Boots hit,Melee,First Attack
+2778548652,BO,JetBoots,Jet Boots hit,Melee,Second Attack
+3614558463,BO,JetBoots,Jet Boots hit,Melee,Third Attack
+798466786,BO,JetBoots,Jet Boots Step Attack,Melee,Step Attack
+2184540187,BO,JetBoots,Jet Boots jump hit,Melee,Shift Action
+747815998,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Fire)
+1254493977,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Ice)
+3280158646,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Lightning)
+2954183594,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Wind)
+1853582271,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Light)
+580662444,BO,JetBoots,Jet Boots jump hit,Special,Jump hit (Dark)
+2440471691,BO,JetBoots,Strike Gust,PA,Strike Gust (uncharged first two)
+3982071982,BO,JetBoots,Strike Gust,PA,Strike Gust (uncharged final)
+2049018178,BO,JetBoots,Strike Gust,PA,Strike Gust (half charge first three)
+2476784422,BO,JetBoots,Strike Gust,PA,Strike Gust (half charge final)
+1301043509,BO,JetBoots,Strike Gust,PA,Strike Gust (charged first four)
+3955365271,BO,JetBoots,Strike Gust,PA,Strike Gust (final)
+3088217635,BO,JetBoots,Strike Gust,PA,Strike Gust (interrupt)
+1462163353,BO,JetBoots,Strike Gust (C),PA,Strike Gust (Type-0) first charge
+2869687889,BO,JetBoots,Strike Gust (C),PA,Strike Gust (Type-0) first charge shift action
+1071365573,BO,JetBoots,Strike Gust (C),PA,Strike Gust (Type-0) second charge
+452976794,BO,JetBoots,Strike Gust (C),PA,Strike Gust (Type-0) second charge shift action first hit
+1808168665,BO,JetBoots,Strike Gust (C),PA,Strike Gust (Type-0) second charge shift action
+424716447,BO,JetBoots,Gran Wave,PA,Gran Wave (first kick)
+3764244857,BO,JetBoots,Gran Wave,PA,Gran Wave (kick volle)
+228498928,BO,JetBoots,Gran Wave,PA,Gran Wave final kick
+147222821,BO,JetBoots,Gran Wave,PA,Gran Wave (interrupt)
+1327336062,BO,JetBoots,Moment Gale,PA,Moment Gale
+4236946851,BO,JetBoots,Moment Gale,PA,Moment Gale (interrupt part 1)
+4124802045,BO,JetBoots,Vinto Gigue,PA,Vinto (explode)
+2398433897,BO,JetBoots,Vinto Gigue,PA,Vinto (explode any gear)
+3958422470,BO,JetBoots,Vinto Gigue,PA,Vinto (kick)
+1528400162,BO,JetBoots,Vinto Gigue,PA,Vinto (kick half gear)
+3849186397,BO,JetBoots,Vinto Gigue,PA,Vinto Gigue (full gear explosion)
+598735040,BO,JetBoots,Vinto Gigue,PA,Vinto (kick full gear)
+844099599,BO,JetBoots,Elemental Burst,Special,Fire Elemental Burst (Bo skill)
+436531970,BO,JetBoots,Elemental Burst,Special,Ice Elemental Burst (Bo skill)
+3183103116,BO,JetBoots,Elemental Burst,Special,Lightning Elemental Burst (Bo skill)
+3999693063,BO,JetBoots,Elemental Burst,Special,Wind Elemental Burst (Bo skill)
+1812915089,BO,JetBoots,Elemental Burst,Special,Light Elemental Burst (Bo skill)
+606506553,BO,JetBoots,Elemental Burst,Special,Dark Elemental Burst (Bo skill)
+1927231955,BO,JetBoots,Tempest Raid,Special,Tempest Raid thunder
+2141090244,BO,JetBoots,Tempest Raid,Special,Tempest Raid slashes
+3659915973,BO,JetBoots,Tempest Raid,Special,Tempest Raid final hit
+3782877357,BO,JetBoots,Tempest Raid,Special,Tempest Raid final hit shift action
+4065469038,SU,Tact,Takt hit,Melee,Baton attack
+2785585589,SU,Pets,Wanda hit,Melee,Wanda auto-attack 1
+2785585652,SU,Pets,Wanda hit,Melee,Wanda auto-attack 2
+2785585714,SU,Pets,Wanda hit,Melee,Wanda auto-attack 3
+933681441,SU,Pets,Wanda Assault,PA,Wanda Assault
+3960069561,SU,Pets,Wanda Break,PA,Wanda Break
+3960069496,SU,Pets,Wanda Shock,PA,Wanda Shock
+933701936,SU,Pets,Wanda Pulsar,PA,Wanda Pulsar
+4223323079,SU,Pets,Wanda Pulsar,PA,Wanda Pulsar
+2918501417,SU,Pets,Wanda Slicer,PA,Wanda Slicer
+2918501480,SU,Pets,Wanda Slicer,PA,Wanda Slicer
+639929291,SU,Pets,Cery hit,Melee,Cery auto-attack 1
+2156897712,SU,Pets,Cery Plode,PA,Cery Plode
+493814577,SU,Pets,Cery/Popple Territory,PA,Cery/Popple Territory
+493814640,SU,Pets,Cery/Popple Territory,PA,Cery/Popple Territory power-up
+3581010262,SU,Pets,Cery Curse,PA,Cery Curse
+385030021,SU,Pets,Cery Fall,PA,Cery Fall
+385050960,SU,Pets,Cery Chaser,PA,Cery Chaser
+487482498,SU,Pets,Trim hit,Melee,Trim auto-attack 1
+487482435,SU,Pets,Trim hit,Melee,Trim auto-attack 2
+487489051,SU,Pets,Trim hit,Melee,Trim auto-attack 3
+4093858806,SU,Pets,Trim Stab,PA,Trim Stab
+2211899418,SU,Pets,Trim Spiral,PA,Trim Spiral (uncharged)
+2211899483,SU,Pets,Trim Spiral,PA,Trim Spiral (charge lv.1)
+926005986,SU,Pets,Trim Spiral,PA,Trim Spiral (charge lv.1 & Trim Shout version)
+2211900312,SU,Pets,Trim Spiral,PA,Trim Spiral (charge lv.2)
+926861457,SU,Pets,Trim Spiral,PA,Trim Spiral (charge lv.2 & Trim Shout version)
+672081019,SU,Pets,Trim Bullet,PA,Trim Bullet first hit
+2052351310,SU,Pets,Trim Bullet,PA,Trim Bullet wing melee hit
+4238918539,SU,Pets,Trim Bullet,PA,Trim Bullet poison/burnlike damage
+4238918472,SU,Pets,Trim Bullet,PA,Trim Bullet poison/burnlike damage (Trim Shout version)
+4093858743,SU,Pets,Trim Shout,PA,Trim Shout
+4093858613,SU,Pets,Trim Slash,PA,Trim Slash
+672024361,SU,Pets,Trim Slash,PA,Trim Slash (Trim Shout version)
+2944355330,SU,Pets,Maron hit,Melee,Maron first normal attack
+2944352598,SU,Pets,Maron hit,Melee,Maron second normal attack
+2944352663,SU,Pets,Maron hit,Melee,Maron third normal attack
+3595323408,SU,Pets,Maron Strike,PA,Maron Strike
+3595323990,SU,Pets,Maron Strike,PA,Maron Strike charge 1
+3595323799,SU,Pets,Maron Strike,PA,Maron Strike charge 2
+4118650930,SU,Pets,Maron Strike (damage to owner),PA,Maron Strike explosion
+115059488,SU,Pets,Maron Break,PA,Maron Break
+115059427,SU,Pets,Maron Slicer,PA,Maron Chaser
+1099252288,SU,Pets,Maron Curse,PA,Maron Curse first hit
+1102156943,SU,Pets,Maron Curse,PA,Maron Curse
+3460765776,SU,Pets,Maron/Melon Strike (damage to pet),PA,Maron/Melon Strike pet damage taken
+2920779330,SU,Pets,Melon hit,PA,Melon first normal attack
+2920778756,SU,Pets,Melon hit,PA,Melon second normal attack
+2920778949,SU,Pets,Melon hit,PA,Melon third normal attack
+3889466000,SU,Pets,Melon Strike,PA,Melon Strike
+3889465937,SU,Pets,Melon Strike,PA,Melon Strike charge 1
+3889465879,SU,Pets,Melon Strike,PA,Melon Strike charge 2
+1160289435,SU,Pets,Melon Strike (damage to owner),PA,Melon Strike explosion
+3771080959,SU,Pets,Melon Break,PA,Melon Break
+3771080766,SU,Pets,Melon Slicer,PA,Melon Chaser
+745748621,SU,Pets,Melon Curse,PA,Melon Curse first hit
+745791480,SU,Pets,Melon Curse,PA,Melon Curse
+2042365716,SU,Pets,Rappy(Pet) hit,Melee,Rappy (pet) normal attack
+3463249617,SU,Pets,Rappy Melody,PA,Rappy Melody attack (pet)
+12316684,SU,Pets,Rappy Melody,PA,Rappy Melody heal (pet)
+1380676151,SU,Pets,Rappy Drop,PA,Rappy Drop (pet)
+1380677110,SU,Pets,Rappy Cannon,PA,Rappy Cannon (pet)
+401389881,SU,Pets,Rappy Sonic,PA,Rappy Sonic (pet)
+1793658679,SU,Pets,Rappy End,PA,Rappy End stage 1 (pet)
+1793658742,SU,Pets,Rappy End,PA,Rappy End stage 2 (pet)
+1793658549,SU,Pets,Rappy End,PA,Rappy End stage 3 (pet)
+1596394370,SU,Pets,Viola hit,Melee,Viola first normal attack
+1596394307,SU,Pets,Viola hit,Melee,Viola second normal attack
+1596393984,SU,Pets,Viola hit,Melee,Viola third normal attack
+4259075413,SU,Pets,Viola Slicer,PA,Viola Slicer first hit
+4259075094,SU,Pets,Viola Slicer,PA,Viola Slicer second hit
+555203454,SU,Pets,Viola Stamp,PA,Viola Stamp
+4244643339,SU,Pets,Viola Stamp,PA,Viola Stamp hard hit
+555201434,SU,Pets,Viola Pulsar,PA,Viola Pulsar first hit
+201300655,SU,Pets,Viola Pulsar,PA,Viola Pulsar burn/poisonlike damage
+555201499,SU,Pets,Viola Assault,PA,Viola Assault
+2643918256,SU,Pets,Viola Slicer,PA,Viola Slicer first hit (Viola Change'd version)
+2643918193,SU,Pets,Viola Slicer,PA,Viola Slicer second hit (Viola Change'd version)
+4259879100,SU,Pets,Viola Stamp,PA,Viola Stamp (Viola Change'd version)
+375503608,SU,Pets,Viola Stamp,PA,Viola Stamp hard hit (Viola Change'd version)
+4234893896,SU,Pets,Viola Pulsar,PA,Viola Pulsar first hit (Viola Change'd version)
+444146511,SU,Pets,Viola Pulsar,PA,Viola Pulsar burn/poisonlike damage (Viola Change'd version)
+4235149933,SU,Pets,Viola Assault,PA,Viola Assault (Viola Change'd version)
+1147655708,SU,Pets,Synchro hit,Melee,Synchro first normal hit
+1147655711,SU,Pets,Synchro hit,Melee,Synchro second normal hit
+1147655710,SU,Pets,Synchro hit,Melee,Synchro third normal hit
+2368496396,SU,Pets,Synchro Zan,PA,Synchro Zan
+932657263,SU,Pets,Synchro Zan,PA,Synchro Zan PA succession
+2368496330,SU,Pets,Synchro Kyaku,PA,Synchro Kyaku
+1954712103,SU,Pets,Synchro Kyaku,PA,Synchro Kyaku PA succession
+2368496267,SU,Pets,Synchro Ken,PA,Synchro Ken
+3201748996,SU,Pets,Synchro Ken,PA,Synchro Ken PA succession
+2368496200,SU,Pets,Synchro Dan,PA,Synchro Dan
+4256887742,SU,Pets,Synchro Dan,PA,Synchro Dan PA succession
+2905893090,SU,Pets,Synchro Geki,PA,Synchro Geki
+2905888420,SU,Pets,Synchro Geki,PA,Synchro Geki 2 PA succession
+2905888357,SU,Pets,Synchro Geki,PA,Synchro Geki 3 PA succession
+2905888294,SU,Pets,Synchro Geki,PA,Synchro Geki 4 PA succession
+2981353400,SU,Pets,Jinga hit,Melee,Jinga first normal attack
+2981353465,SU,Pets,Jinga hit,Melee,Jinga second normal attack
+2981351487,SU,Pets,Jinga hit,Melee,Jinga third normal attack
+3467827123,SU,Pets,Jinga Slicer,PA,Jinga Slicer first hit
+3467827186,SU,Pets,Jinga Slicer,PA,Jinga Slicer second hit
+2252116314,SU,Pets,Jinga Shock,PA,Jinga Shock
+2252115978,SU,Pets,Jinga Break,PA,Jinga Break
+3369486556,SU,Pets,Jinga Pulsar,PA,Jinga Pulsar
+3606184590,SU,Pets,Jinga Pulsar,PA,Jinga Pulsar hard hit
+3369572495,SU,Pets,Jinga Assault,PA,Jinga Assault
+578161427,SU,Pets,Popple hit,Melee,Popple normal attack
+2622073432,SU,Pets,Popple Splode,PA,Popple Splode uncharged
+850642716,SU,Pets,Popple Splode,PA,Popple Splode charged
+1711861634,SU,Pets,Popple Fall,PA,Popple Fall
+1711859717,SU,Pets,Popple Chaser,PA,Popple Chaser
+3737792897,SU,Pets,Popple Curse,PA,Popple Curse
+37070160,SU,Pets,Aero hit,Melee,Aero first normal attack
+37070227,SU,Pets,Aero hit,Melee,Aero second normal attack
+37070290,SU,Pets,Aero hit,Melee,Aero third normal attack
+772156432,SU,Pets,Aero Shout,PA,Aero Shout
+772155588,SU,Pets,Aero Stab,PA,Aero Stab
+772155525,SU,Pets,Aero Slash,PA,Aero Slash
+88413264,SU,Pets,Aero Slash,PA,Aero Slash (Aero Shout version)
+4119800976,SU,Pets,Aero Spiral,PA,Aero Spiral uncharged
+4119798486,SU,Pets,Aero Spiral,PA,Aero Spiral first charge
+663625842,SU,Pets,Aero Spiral,PA,Aero Spiral first charge afterwave
+3404526192,SU,Pets,Aero Spiral,PA,Aero Spiral first charge (Aero Shout version)
+2888644253,SU,Pets,Aero Spiral,PA,Aero Spiral first charge afterwave (Aero Shout version)
+4119798295,SU,Pets,Aero Spiral,PA,Aero Spiral second charge
+647460626,SU,Pets,Aero Spiral,PA,Aero Spiral second charge afterwave
+3404513889,SU,Pets,Aero Spiral,PA,Aero Spiral second charge (Aero Shout version)
+1798066999,SU,Pets,Aero Spiral,PA,Aero Spiral second charge afterwave (Aero Shout version)
+88471088,SU,Pets,Aero Bullet,PA,Aero Bullet first hit
+3446126836,SU,Pets,Aero Bullet,PA,Aero Bullet
+3446127031,SU,Pets,Aero Bullet,PA,Aero Bullet (Aero Shout version)
+2572277765,SU,Pets,Aero Bullet,PA,Aero Bullet melee hit
+2131775436,SU,Pets,Redran hit,Melee,Redran normal attack
+1219413769,SU,Pets,Redran Laser,PA,Redran Laser 1-3 lock-on
+1219413832,SU,Pets,Redran Laser,PA,Redran Laser 4-7 lock-on
+1219413643,SU,Pets,Redran Laser,PA,Redran Laser 8 lock-on
+4244805011,SU,Pets,Redran Slash,PA,Redran Slash
+4244805205,SU,Pets,Redran Mine,PA,Redran Mine hit
+1312015390,SU,Pets,Redran Mine,PA,Redran Mine explosion
+1282005173,SU,Pets,Redran Burst,PA,Redran Burst 1-3 balls
+1282005238,SU,Pets,Redran Burst,PA,Redran Burst 4-7 balls
+1282005047,SU,Pets,Redran Burst,PA,Redran Burst 8 balls
+2444771520,HR,Sword,Sword hit (Hero),Melee,Hero Sword first normal attack
+2444771715,HR,Sword,Sword hit (Hero),Melee,Hero Sword second normal attack
+2832347180,HR,Sword,Sword hit (Hero),Melee,Hero Sword third normal attack first hit
+2832347245,HR,Sword,Sword hit (Hero),Melee,Hero Sword third normal attack second hit
+2441204331,HR,Sword,Sword hit (Hero),Melee,Hero Sword first normal attack air
+2441204394,HR,Sword,Sword hit (Hero),Melee,Hero Sword second normal attack air
+3756260250,HR,Sword,Sword hit (Hero),Melee,Hero Sword third normal attack first hit air
+3756260700,HR,Sword,Sword hit (Hero),Melee,Hero Sword third normal attack second hit air
+2448594388,HR,Sword,Sword Step Attack (Hero),Melee,Hero Sword Step Attack
+2094998893,HR,Sword,Hero Counter (Sword),Melee,Hero Sword Step Attack after dodge (Hero Counter) (Hr skill)
+3043390195,HR,Sword,Sword Weapon Action (Hero),Special,Hero Sword Weapon Action no charge
+4293352220,HR,Sword,Sword Weapon Action (Hero),Special,Hero Sword Weapon Action charge lv.1
+669993200,HR,Sword,Sword Weapon Action (Hero),Special,Hero Sword Weapon Action charge lv.2 (Aura High Charge) (Hr skill)
+717168700,HR,Sword,Rising Slash,PA,Rising Slash start
+1830196905,HR,Sword,Rising Slash,PA,Rising Slash slashes
+3710313763,HR,Sword,Rising Slash,PA,Rising Slash final part first hit
+3710313824,HR,Sword,Rising Slash,PA,Rising Slash final part second hit
+2089764912,HR,Sword,Rising Slash,PA,Rising Slash final part final hit
+718899304,HR,Sword,Rising Slash,PA,Rising Slash start air
+718820347,HR,Sword,Brightness End,PA,Brightness End first hit
+346766635,HR,Sword,Brightness End,PA,Brightness End slash
+715425742,HR,Sword,Flash Trick,PA,Flash Trick weapon hit
+715424670,HR,Sword,Flash Trick,PA,Flash Trick finish
+673837877,HR,Sword,Vapor Bullet,PA,Vapor Bullet
+3317919827,HR,Talis,Talis hit (Hero),Ranged,Hero Talis first normal attack
+3317921051,HR,Talis,Talis hit (Hero),Ranged,Hero Talis second normal attack
+3317921242,HR,Talis,Talis hit (Hero),Ranged,Hero Talis third normal attack
+1159592166,HR,Talis,Talis Weapon Action (Hero),Ranged,Hero Talis Weapon Action hit
+3318755300,HR,Talis,Talis Step Attack (Hero),Ranged,Hero Talis Step Attack
+1089593935,HR,Talis,Hero Counter (Talis),Ranged,Hero Talis Step Attack after dodge (Hero Counter) (Hr skill)
+4105920492,HR,Talis,Hero Counter (Talis),Ranged,Hero Talis Step Attack after dodge (Hero Counter) (Hr skill)
+1736785343,HR,Talis,Jet Wheel,PA,Jet Wheel talis hit(s)
+3161437904,HR,Talis,Jet Wheel,PA,Jet Wheel aoe
+2852176964,HR,Talis,Jet Wheel,PA,Jet Wheel when switched to Sword
+2852180670,HR,Talis,Jet Wheel,PA,Jet Wheel when switched to Twin Machine Guns
+209487851,HR,Talis,Wise Hound,PA,Wise Hound
+507041974,HR,Talis,Wise Hound,PA,Wise Hound when switched to Sword
+507041839,HR,Talis,Wise Hound,PA,Wise Hound when switched to Twin Machine Guns
+1342643252,HR,Talis,Dive Bullet,PA,Dive Bullet
+1422891855,HR,Talis,Racer Edge,PA,Racer Edge
+1403081519,HR,TwinMachinegun,Twin Machine Guns hit (Hero),Ranged,Hero Twin Machine Guns normal attack
+2834748182,HR,TwinMachinegun,Twin Machine Guns Step Attack (Hero),Ranged,Hero Twin Machine Guns Step Attack
+1905792389,HR,TwinMachinegun,Hero Counter (Twin Machine Guns),Ranged,Hero Twin Machine Guns Step Attack after dodge (Hero Counter) (Hr skill)
+2832005595,HR,TwinMachinegun,Brand New Star,PA,Brand New Star
+1399183080,HR,TwinMachinegun,Brand New Star (Counter),PA,Brand New Star after dodge
+2832005530,HR,TwinMachinegun,Final Storm,PA,Final Storm
+2832005465,HR,TwinMachinegun,Second Edge,PA,Second Edge
+2832005400,HR,TwinMachinegun,Moment Trick,PA,Moment Trick
+2817683590,HR,Sword,Switch to Sword,Melee,Switch to Sword
+1591095807,HR,Talis,Switch to Talis,Ranged,Switch to Talis
+2461200579,HR,TwinMachinegun,Switch to Twin Machine Guns,Ranged,Switch to Twin Machine Guns
+2268332858,HR,Sword,Hero Time (Sword),Special,Hero Time Sword slashes (Hr skill)
+170999070,HR,Sword,Hero Time (Sword),Special,Hero Time Sword finish (Hr skill)
+2268332813,HR,Sword,Hero Time (Sword),Special,Hero Time Sword finish hard hit (Hr skill)
+1266101764,HR,Talis,Hero Time (Talis),Special,Hero Time Talis pull-in (Hr skill)
+11556353,HR,Talis,Hero Time (Talis),Special,Hero Time Talis slashes (Hr skill)
+1233721870,HR,Talis,Hero Time (Talis),Special,Hero Time Talis slashes while switched to Sword (Hr skill)
+1233722348,HR,Talis,Hero Time (Talis),Special,Hero Time Talis slashes while switched to Twin Machine Guns (Hr skill)
+3480338695,HR,TwinMachinegun,Hero Time (Twin Machine Guns),Special,Hero Time Twin Machine Guns burst (Hr skill)
+973258663,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana first normal attack
+973258596,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana second normal attack
+973258533,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana third normal attack
+840700311,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana air first normal attack
+840699985,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana air second normal attack
+840699920,PH,Katana,Katana hit (Phantom),Melee,Phantom Katana air third normal attack
+980427043,PH,Katana,Katana Step Attack (Phantom),Melee,Phantom Katana Step Attack
+4188914875,PH,Katana,Katana Weapon Action,Special,Phantom Katana Weapon Action
+2765954690,PH,Katana,Dodge Counter Shot (Katana),Special,Dodge Counter Shot (Katana) (Ph skill)
+987960113,PH,Katana,Schmetterling,PA,Schmetterling first 2 hits
+1599479410,PH,Katana,Schmetterling,PA,Schmetterling
+1599478186,PH,Katana,Schmetterling (Shift Action),PA,Schmetterling (Shift Action)
+3569709951,PH,Katana,Schmetterling (Shift Action),PA,Schmetterling (Shift Action) slashes?
+1599486311,PH,Katana,Wolkenkrazter,PA,Wolkenkrazter
+987960240,PH,Katana,Wolkenkrazter,PA,Wolkenkrazter aoe
+2011111966,PH,Katana,Wolkenkrazter (Shift Action),PA,Wolkenkrazter (Shift Action)
+987960176,PH,Katana,Folter Zeit,PA,Folter Zeit
+1599475427,PH,Katana,Folter Zeit,PA,Folter Zeit finish
+1599473979,PH,Katana,Folter Zeit (Shift Action),PA,Folter Zeit (Shift Action)
+654363349,PH,Katana,Rose Schwert,PA,Rose Schwert start
+3569459368,PH,Katana,Rose Schwert,PA,Rose Schwert
+3569459369,PH,Katana,Rose Schwert,PA,Rose Schwert
+3569459371,PH,Katana,Rose Schwert,PA,Rose Schwert
+1398920256,PH,Katana,Rose Schwert (Shift Action),PA,Rose Schwert (Shift Action)
+1705644539,PH,Katana,Rose Schwert (Shift Action),PA,Rose Schwert (Shift Action) rift
+2907201045,PH,Katana,Phantom Marker (Katana),Special,Phantom Marker (Katana) explosion charge lv.1
+2907201492,PH,Katana,Phantom Marker (Katana),Special,Phantom Marker (Katana) explosion charge lv.2
+3695463316,PH,Katana,Phantom Time (Katana),Special,Phantom Time (Katana)
+975125104,PH,Katana,Phantom Time (Katana),Special,Phantom Time (Katana) final
+2491562758,PH,Rifle,Assault Rifle hit (Phantom),Ranged,Phantom Assault Rifle first normal attack
+2491562565,PH,Rifle,Assault Rifle hit (Phantom),Ranged,Phantom Assault Rifle second first normal attack
+2491562628,PH,Rifle,Assault Rifle hit (Phantom),Ranged,Phantom Assault Rifle third first normal attack
+1999947508,PH,Rifle,Assault Rifle Step Attack (Phantom),Ranged,Phantom Assault Rifle Step Attack
+3089109531,PH,Rifle,Assault Rifle Weapon Action,Special,Assault Rifle Weapon Action
+2014302715,PH,Rifle,Assault Rifle Weapon Action,Special,Assault Rifle Weapon Action charged
+2600842557,PH,Rifle,Dodge Counter Shot (Assault Rifle),Special,Dodge Counter Shot (Assault Rifle) (Ph skill)
+2215020097,PH,Rifle,Kugelsturm,PA,Kugelsturm first volley
+2215020162,PH,Rifle,Kugelsturm,PA,Kugelsturm
+3158383588,PH,Rifle,Kugelsturm (Shift Action),PA,"Kugelsturm (Shift Action) ""lots of hits"""
+1640997085,PH,Rifle,Kugelsturm (Shift Action),PA,Kugelsturm (Shift Action) finish
+4290111736,PH,Rifle,Verbrechen,PA,Verbrechen
+4290111408,PH,Rifle,Verbrechen,PA,Verbrechen sideways
+3151257398,PH,Rifle,Verbrechen (Shift Action),PA,Verbrechen (Shift Action)
+3220962891,PH,Rifle,Nachtangriff,PA,Nachtangriff
+3220962310,PH,Rifle,Nachtangriff,PA,Nachtangriff projectile 
+4046511708,PH,Rifle,Nachtangriff (Shift Action),PA,Nachtangriff (Shift Action)
+3288338193,PH,Rifle,Strafe,PA,Strafe
+4213673767,PH,Rifle,Strafe (Shift Action),PA,Strafe (Shift Action)
+3786184050,PH,Rifle,Phantom Marker (Assault Rifle),Special,Phantom Marker (Assault Rifle) explosion charge lv.1 (Ph skill)
+3785421997,PH,Rifle,Phantom Marker (Assault Rifle),Special,Phantom Marker (Assault Rifle) explosion charge lv.2 (Ph skill)
+2243620231,PH,Rifle,Phantom Time (Assault Rifle),Special,Phantom Time (Assault Rifle) (Ph skill)
+1412080400,PH,Rifle,Phantom Time (Assault Rifle),Special,Phantom Time (Assault Rifle) final (Ph skill)
+2953139672,PH,Rod,Rod hit (Phantom),Melee,Phantom Rod first normal attack
+2953139611,PH,Rod,Rod hit (Phantom),Melee,Phantom Rod second normal attack
+2953139290,PH,Rod,Rod hit (Phantom),Melee,Phantom Rod third normal attack
+2998890418,PH,Rod,Rod Step Attack (Phantom),Melee,Phantom Rod Step Attack
+1431710595,PH,Rod,Rod Weapon Action,Special,Phantom Rod Weapon Action
+421953627,PH,Rod,Rod Weapon Action,Special,Phantom Rod Weapon Action charged
+2999731584,PH,Rod,Tech Casted (Rod),Special,Phantom Tech Casted from Rod
+3301900032,PH,Rod,Dodge Counter Shot (Rod),Special,Dodge Counter Shot (Rod) (Ph skill)
+1579409293,PH,Rod,Ruf Konzert,PA,Ruf Konzert first hit
+1579408972,PH,Rod,Ruf Konzert,PA,Ruf Konzert second
+1579408900,PH,Rod,Ruf Konzert,PA,Ruf Konzert third
+3522834748,PH,Rod,Ruf Konzert,PA,Ruf Konzert slash
+3406878835,PH,Rod,Ruf Konzert (Shift Action),PA,Ruf Konzert (Shift Action) hit
+1429241745,PH,Rod,Ruf Konzert (Shift Action),PA,Ruf Konzert (Shift Action) slash
+3406887572,PH,Rod,Schwarze Katze,PA,Schwarze Katze
+3406887761,PH,Rod,Schwarze Katze (Shift Action),PA,Schwarze Katze (Shift Action)
+1579594570,PH,Rod,Voelkermord,PA,Voelkermord ball charge lv.1
+1579594507,PH,Rod,Voelkermord,PA,Voelkermord ball charge lv.2
+2670384126,PH,Rod,Voelkermord,PA,Voelkermord explosion lv.1
+1050889844,PH,Rod,Voelkermord,PA,Voelkermord explosion lv.2
+1579574174,PH,Rod,Voelkermord (Shift Action),PA,Voelkermord (Shift Action) AoE
+3115083023,PH,Rod,Eisen Fluegel,PA,Eisen Fluegel
+3413713363,PH,Rod,Eisen Fluegel (Shift Action),PA,Eisen Fluegel (Shift Action)
+404882650,PH,Rod,Phantom Marker (Rod),Special,Phantom Marker (Rod) explosion charge lv.1 (Ph skill)
+404882329,PH,Rod,Phantom Marker (Rod),Special,Phantom Marker (Rod) explosion charge lv.2 (Ph skill)
+2995855500,PH,Rod,Phantom Time (Rod),Special,Phantom Time (Rod) (Ph skill)
+2682739872,PH,Rod,Phantom Time (Rod),Special,Phantom Time (Rod) 2nd part (Ph skill)
+2682739887,PH,Rod,Phantom Time (Rod),Special,Phantom Time (Rod) 3rd part (Ph skill)
+2682739886,PH,Rod,Phantom Time (Rod),Special,Phantom Time (Rod) final lasers (Ph skill)
+3919241663,ET,DoubleSaber,Double Saber hit (Etoile),Melee,Etoile Double Saber first normal attack
+169524061,ET,DoubleSaber,Double Saber hit (Etoile),Melee,Etoile Double Saber second normal attack
+3511369619,ET,DoubleSaber,Double Saber hit (Etoile),Melee,Etoile Double Saber third normal attack
+601312782,ET,DoubleSaber,Double Saber hit (Etoile),Melee,Etoile Double Saber air first normal attack
+2524726786,ET,DoubleSaber,Double Saber hit (Etoile),Melee,Etoile Double Saber air second normal attack
+1877753403,ET,DoubleSaber,Double Saber Step Attack (Etoile),Melee,Etoile Double Saber Step Attack
+3703502919,ET,DoubleSaber,Double Saber Weapon Action (Etoile),Special,Etoile Double Saber Weapon Action first-in-a-row
+1299126211,ET,DoubleSaber,Double Saber Weapon Action (Etoile),Special,Etoile Double Saber Weapon Action second-in-a-row
+2505461367,ET,DoubleSaber,Double Saber Weapon Action (Etoile),Special,Etoile Double Saber Weapon Action small swords
+3703475948,ET,DoubleSaber,Double Saber Weapon Action (Etoile) [Parry],Special,Etoile Double Saber Weapon Action parry first-in-a-row
+1299131665,ET,DoubleSaber,Double Saber Weapon Action (Etoile) [Parry],Special,Etoile Double Saber Weapon Action parry second-in-a-row
+3703475885,ET,DoubleSaber,Double Saber Weapon Action (Etoile) [Quick Take],Special,Etoile Double Saber Weapon Action (Quick Take) first-in-a-row (Et skill)
+1299131728,ET,DoubleSaber,Double Saber Weapon Action (Etoile) [Quick Take],Special,Etoile Double Saber Weapon Action (Quick Take) second-in-a-row (Et skill)
+3668847151,ET,DoubleSaber,Double Saber Quick Take,Special,Double Saber Quick Take (normal attack) (Et skill)
+2428433047,ET,DoubleSaber,Double Saber Gear (Etoile),Special,Etoile Double Saber Gear no gear (Et skill)
+3674749665,ET,DoubleSaber,Double Saber Gear (Etoile),Special,Etoile Double Saber Gear 1 gear (Et skill)
+3668847214,ET,DoubleSaber,Double Saber Step Slide Attack,Special,Double Saber Step Slide Attack (Et skill)
+3668848108,ET,DoubleSaber,Double Saber Step Guard,Special,Double Saber Step Guard (Et skill)
+3023957695,ET,DoubleSaber,Absolute Quasar,PA,Absolute Quasar dash hit
+3023957886,ET,DoubleSaber,Absolute Quasar,PA,Absolute Quasar lots of hits
+3023959320,ET,DoubleSaber,Absolute Quasar,PA,Absolute Quasar final AoE
+2697421743,ET,DoubleSaber,Saber Destruction,PA,Saber Destruction
+2697421419,ET,DoubleSaber,Saber Destruction,PA,Saber Destruction second
+2697421354,ET,DoubleSaber,Saber Destruction,PA,Saber Destruction final
+3186989454,ET,DoubleSaber,Shooting Star,PA,Shooting Star
+3186990914,ET,DoubleSaber,Shooting Star,PA,Shooting Star swords
+3016370354,ET,DoubleSaber,Celestial Collide,PA,Celestial Collide
+3016370673,ET,DoubleSaber,Celestial Collide,PA,Celestial Collide sword
+634701582,ET,DualBlades,Dual Blades hit (Etoile),Melee,Etoile Dual Blades  first normal attack
+3591995488,ET,DualBlades,Dual Blades hit (Etoile),Melee,Etoile Dual Blades second normal attack
+3591995809,ET,DualBlades,Dual Blades hit (Etoile),Melee,Etoile Dual Blades second normal attack kick
+634701708,ET,DualBlades,Dual Blades hit (Etoile),Melee,Etoile Dual Blades third normal attack hit
+3216339209,ET,DualBlades,Dual Blades Step Attack (Etoile),Melee,Etoile Dual Blades Step Attack first hit
+3216339272,ET,DualBlades,Dual Blades Step Attack (Etoile),Melee,Etoile Dual Blades Step Attack second hit
+762625001,ET,DualBlades,Dual Blades Weapon Action (Etoile),Special,Etoile Dual Blades Weapon Action thrown sword
+2717596840,ET,DualBlades,Dual Blades Weapon Action (Etoile),Special,Etoile Dual Blades Weapon Action guard
+2848757556,ET,DualBlades,Dual Blades Gear (Etoile),Special,Etoile Dual Blades Gear (Connect) first 3 hits (Et skill)
+3689006720,ET,DualBlades,Dual Blades Gear (Etoile),Special,Etoile Dual Blades Gear (Connect) semi-final hit (Et skill)
+3689006745,ET,DualBlades,Dual Blades Gear (Etoile),Special,Etoile Dual Blades Gear (Connect) final hit (Et skill)
+2511501523,ET,DualBlades,Dual Blades Gear (Etoile),Special,Etoile Dual Blades Gear (Full Connect) (Et skill)
+2511501522,ET,DualBlades,Dual Blades Gear (Etoile),Special,Etoile Dual Blades Gear slash (Full Connect) (Et skill)
+2146020536,ET,DualBlades,Distortion Pierce,PA,Distortion Pierce first hit
+2146020473,ET,DualBlades,Distortion Pierce,PA,Distortion Pierce second hit
+2146021178,ET,DualBlades,Distortion Pierce,PA,Distortion Pierce final hit
+3346332164,ET,DualBlades,Distortion Pierce,PA,Distortion Pierce side swords
+1463728380,ET,DualBlades,Radiant Sting,PA,Radiant Sting first hit
+1463728189,ET,DualBlades,Radiant Sting,PA,Radiant Sting second hit
+3117418431,ET,DualBlades,Radiant Sting,PA,Radiant Sting third hit
+2350220858,ET,DualBlades,Radiant Sting,PA,Radiant Sting side swords
+1624837806,ET,DualBlades,Radiant Sting,PA,Radiant Sting final hit
+1625099890,ET,DualBlades,Vertical Flow,PA,Vertical Flow jump hit
+1625099760,ET,DualBlades,Vertical Flow,PA,Vertical Flow downward hit
+2419210264,ET,DualBlades,Vertical Flow,PA,Vertical Flow ???
+2419211090,ET,DualBlades,Vertical Flow,PA,Vertical Flow X slash
+1609610974,ET,DualBlades,Vertical Flow,PA,Vertical Flow left side sword
+1609610314,ET,DualBlades,Vertical Flow,PA,Vertical Flow right side sword
+1624366591,ET,DualBlades,Light Wave,PA,Light Wave first slash
+3350106872,ET,DualBlades,Light Wave,PA,Light Wave second slash
+3350106162,ET,DualBlades,Light Wave,PA,Light Wave third slash
+1624365942,ET,DualBlades,Light Wave,PA,Light Wave final (X) slash
+712251032,ET,DualBlades,Light Wave,PA,Light Wave left side sword
+712272135,ET,DualBlades,Light Wave,PA,Light Wave right side sword
+4018085752,ET,Wand,Wand hit (Etoile),Melee,Etoile Wand first normal attack
+4018085689,ET,Wand,Wand hit (Etoile),Melee,Etoile Wand second normal attack
+4018085882,ET,Wand,Wand hit (Etoile),Melee,Etoile Wand third normal attack
+3968236707,ET,Wand,Wand Step Attack (Etoile),Melee,Etoile Wand Step Attack 
+1295321598,ET,Wand,Wand Gear (Etoile),Special,Etoile Wand Gear projectile (Et skill)
+3381519387,ET,Wand,Wand Gear (Etoile),Special,Etoile Wand Gear 1st charge explosion (Et skill)
+3381519386,ET,Wand,Wand Gear (Etoile),Special,Etoile Wand Gear 2nd charge first explosion (Et skill)
+3099099080,ET,Wand,Wand Gear (Etoile),Special,Etoile Wand Gear 2nd charge big explosion (Et skill)
+699328332,ET,Wand,Prism Circular,PA,Prism Circular hold
+788841907,ET,Wand,Prism Circular,PA,Prism Circular first hit
+4288338327,ET,Wand,Prism Circular,PA,Prism Circular slash
+788842224,ET,Wand,Prism Circular (Focus),PA,Prism Circular (Focus/Weapon Action)
+4020026781,ET,Wand,Glitter Stripe,PA,Glitter Stripe
+785560393,ET,Wand,Glitter Stripe,PA,Glitter Stripe explosion
+785561722,ET,Wand,Glitter Stripe (Focus),PA,Glitter Stripe explosion (Focus/Weapon Action)
+2723321977,ET,Wand,Black Hole Rupture,PA,Black Hole Rupture
+2710202273,ET,Wand,Black Hole Rupture,PA,Black Hole Rupture AoE field generating slash
+2286047535,ET,Wand,Black Hole Rupture,PA,Black Hole Rupture AoE field
+2286047593,ET,Wand,Black Hole Rupture (Focus),PA,Black Hole Rupture AoE field (Focus/Weapon Action)
+5834299,ET,Wand,Luminous Flare,PA,Luminous Flare
+2338828957,ET,Wand,Luminous Flare (Focus),PA,Luminous Flare (Focus/Weapon Action)
