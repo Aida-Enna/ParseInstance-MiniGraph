@@ -3,6 +3,36 @@
 This was an idea that came about while working on PSO2ACT v2 and wanted to make the graph be separate and "perhaps an overlay type program would be nice..." and that brought forth this... abomination... :x
 Thanks to Variant for the PSO2 Damage Plugin since none of this would exist without that in the first place.
 
+
+## WARNING! - WARNING! - WARNING!
+Please note that using this kinds of programs actually violate's PSO2's terms of services and according to them, it is a bannable offense, so please use this responsibly.
+We're all here to have fun, right?  To improve our gameplay and experience but most important of all, to have fun so please use this responsibly!  Thanks!
+
+
+## MIT License
+
+**Copyright (c) 2020 Maemi Aenia**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
 ### Installation :
 
 Put the following files in the same folder/directory :
@@ -67,9 +97,7 @@ From the graph, player names have been removed, but YOU are being displayed with
 Also, for easier reference sake, if you hover your mouse on top of a person's graph, it will show you that person's name in a mouse tooltip so please take note.
 
 **THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
-
 **THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
-
 **THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
 
 
@@ -86,6 +114,8 @@ If you click on "Resume", then it will resume watching for changes in the Instan
 This is for when you want to load up data of a previous run.  It's best to pause the reading of InstanceData files when loading previous encounter data so as to give you time to browse through that data.
 
 
+### Skill Window
+
 ![Skill Window](/Images/SkillWindow.png)
 
 Double-click on a player's data row to bring up the Skill window.
@@ -101,6 +131,8 @@ Click on "Close" to close the skill window.
 
 If you leave a player's skill window open, provided you keep capturing data from that player (meaning that player is in your MPA or party), that skill window will update itself as well, so you could open up your own skill window and see it update according to what you use.
 
+
+### Basic View Mode
 
 ![Basic mode](/Images/MainWindow-Basic.png)
 
