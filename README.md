@@ -42,14 +42,14 @@ Put the following files in the same folder/directory :
 * skills.csv
 * skills-Main.csv
 * skills-noJA.csv
-* skills.Weapon.csv
+* skills-Weapon.csv
 
 ### Running :
 
 To start it all, just run ParseInstance.exe
-
-
-
+  
+  
+  
 ## ParseInstance :
 
 This program will generate InstanceData.csv and InstanceData.skilldb files according to the PSO2's battle instance.
@@ -70,9 +70,9 @@ It will also automatically start MiniGraph program when run and try to automatic
 
 *If you can't select the pso2_bin\damagelog folder/directory through the browse folder dialog for some reason, then select just any folder and then edit the ParseInstance.ini file to point at the correct folder/directory.*
 ![Edit ini file](/Images/ParseInstance-Ini.png)
-
-
-
+  
+  
+  
 ## MiniGraph - DPS Overlay window
 
 ![MiniGraph Window](/Images/MainWindow-BOn.png)
@@ -97,8 +97,8 @@ From the graph, player names have been removed, but YOU are being displayed with
 
 Also, for easier reference sake, if you hover your mouse on top of a person's graph, it will show you that person's name in a mouse tooltip so please take note.
 
-**THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
-**THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
+**THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**  
+**THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**  
 **THIS EXECUTABLE HAS TO STAY WITHIN THE SAME FOLDER AS PARSEINSTANCE.EXE FILE!!!**
 
 
